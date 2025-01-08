@@ -1,6 +1,6 @@
 ![imagen](images/CVPR2025_EVIS.png)
 
-**June TBD, 2025, CVPR**, Nashville (TN), USA.
+**June 11th or 12th (TBD), 2025, CVPR**, Nashville (TN), USA.
 <!-- Starts at **10 am [Eastern Time](https://time.is/ET)**;  4 pm [Europe Time](https://time.is/CET). -->  
 Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/) 2025.
 
@@ -17,7 +17,7 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 - Camera-ready paper: April 7, 2025 (as per CVPR website, deadline set by IEEE)
 - [Early-bird registration **April 30th** (23:59h ET)](https://cvpr.thecvf.com/Conferences/2025/Pricing2)
 - Standard registration begins May 1st.
-- <b>Workshop day: **June TBC, 2025**. Full day workshop.</b>
+- <b>Workshop day: **June June 11th or 12th (TBD), 2025**. Full day workshop.</b>
 
 <!--
 ## <span style="color:tomato;">[Photo Album of the Workshop](https://photos.app.goo.gl/z5gMLG2AF6U5qHcY7)</span>
@@ -70,20 +70,14 @@ A longer list of related topics is available in the table of content of the [Lis
   
   - For <b>demo</b> abstract submission, authors are encouraged to submit an abstract of up to 2 pages using the same template as CVPR 2025 paper submissions.
 
-<p><div style="text-align: justify">
-  A double blind peer-review process of the submissions received is carried out via CMT / OpenReview (TBD).
-  Accepted papers will be published open access through the Computer Vision Foundation (CVF) (see <a href="https://openaccess.thecvf.com/CVPR2023_workshops/EventVision">examples from CVPR Workshop 2023</a>, <a href="https://openaccess.thecvf.com/CVPR2021_workshops/EventVision">2021</a> <a href="https://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_EventVision">and 2019</a>).
-  For the accepted papers we encourage authors to write a paragraph about ethical considerations and impact of their work.
-</div></p>
-
 ### Courtesy papers (in the poster session)
 <div style="text-align: justify">
-  We also solicit contributions of papers relevant to the workshop that are accepted at the CVPR main conference or at other peer-reviewed conferences or journals.
-  These contributions will be checked for relevance to the workshop, but will not undergo a complete review, and will not be published in the workshop proceedings.
+  We also solicit contributions of <b>papers relevant to the workshop that are accepted</b> at the CVPR main conference or at other peer-reviewed conferences or journals.
+  These contributions will be checked for suitability (soft review) and <b>will not be published in the workshop proceedings</b>.
   Papers should be submitted in single blind format (e.g., accepted version is fine), and should mention if and where the paper has been accepted / published. These contributions provide visibility to your work and help building a community around the topics of the workshop. 
   </div>
 
-## Contests / Challenges
+## Competitions / Challenges
 
 ### Eye-tracking
 
@@ -99,17 +93,17 @@ Submissions will be evaluated on accuracy and model efficiency to ensure low lat
 We believe the outcomes of this challenge will play an important role in shaping the future of XR
 and interaction technology by pushing the boundaries of what's possible in eye tracking. 
 
-### Space-time Instance Segmentation using frames and events
+### Space-time Instance Segmentation (SIS) using frames and events
 Event cameras react to moving objects in the scene and are a natural fit for all kinds of tracking problems. However, in object tracking event-based solutions lack far behind its conventional frame-based counterparts, in part due to missing annotated data. 
 The new open-source [MouseSIS dataset](https://github.com/tub-rip/MouseSIS) (ECCVW 2024) aims to overcome this problem with annotations for a task called Space-time Instance Segmentation (SIS), requiring algorithms to predict multi-object tracking and segmentation of all objects (in this case mice) in the scene. 
 We are excited to announce the first SIS Challenge. 
 It will be hosted on Codalab and evaluated on a non-publicly available test set. 
 The dataset contains data and video instance segmentation annotations for mice. 
 All recordings adhered to the ethical guidelines under German law. 
-
 Algorithms will be evaluated based on the quality of the tracking predictions judged on the main metric Higher Order Tracking Accuracy (HOTA). As one of the interesting properties of event cameras is their
 sparse input, we want to incentivize efficient algorithms and additionally evaluate FLOPS and
 runtime per ground truth step (ms). 
+
 In short, submissions will be evaluated in two tracks (frames + events, event-only) and two figures of merit: accuracy and efficiency. 
 Participants can train the models using any publicly available open-source dataset, but are requested to submit a technical report with all details alongside their submission and to open-source their code. 
 <!-- The tentative timeline is: Challenge starts on January 8th, 2025; Challenge ends on May 9th, 2025; Results are announced on May 16th, 2025. -->
@@ -132,7 +126,7 @@ The tentative schedule is the following:
 
 Time (local) | Session
 --- | ---
-8:00 | Welcome and Session 1: Event cameras: Algorithms and applications I (Invited speakers)
+8:00 | Welcome. Session 1: Event cameras: Algorithms and applications I (Invited speakers)
 10:10 | Coffee break. Set up posters.
 10:30 | Session 2: Poster session: contributed papers, competitions, demos and courtesy presentations (as posters).
 12:30 | Lunch break
@@ -159,26 +153,26 @@ Time (local) | Session
   <li><b>What is an event camera?</b> Watch this <a href="https://youtu.be/LauQ6LWTkxM">video explanation</a>.</li>
   <li><b>What are possible applications of event cameras?</b> Check the <b><a href="https://arxiv.org/abs/1904.08405">TPAMI 2022 review paper</a></b>.
   </li>
-  <li><b>Where can I buy an event camera?</b> From <a href="https://github.com/uzh-rpg/event-based_vision_resources#companies_sftwr"> Inivation, Prophesee, CelePixel, Insightness</a>.</li>
+  <li><b>Where can I buy an event camera?</b> From <a href="https://github.com/uzh-rpg/event-based_vision_resources#companies_sftwr"> Inivation, Prophesee, Lucid, etc.</a>.</li>
   <li><b>Are there datasets and simulators that I can play with?</b> Yes, <a href="http://rpg.ifi.uzh.ch/davis_data.html">Dataset</a>. <a href="http://rpg.ifi.uzh.ch/esim.html">Simulator</a>. <a href="https://github.com/uzh-rpg/event-based_vision_resources#datasets">More</a>.</li>
   <li><b>Is there any online course about event-based vision?</b> Yes, check this <a href="https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision"> course at TU Berlin</a>.</li>
   <li><b>What is the SCAMP sensor?</b> Read this <a href="https://personalpages.manchester.ac.uk/staff/p.dudek/scamp/">page explanation</a>.</li>
   <li><b>What are possible applications of the scamp sensor?</b> Some applications can be found <a href="https://personalpages.manchester.ac.uk/staff/p.dudek/scamp/default.htm#Applications">here</a>.</li>
-  <li><b>Where can I buy a SCAMP sensor?</b> It is not commercially available. Contact Prof. <a href="https://personalpages.manchester.ac.uk/staff/p.dudek/pdudek.htm">Piotr Dudek</a>.</li>
+  <li><b>Where can I buy a SCAMP sensor?</b> Contact Prof. <a href="https://personalpages.manchester.ac.uk/staff/p.dudek/pdudek.htm">Piotr Dudek</a>.</li>
   <li><b>Where can I find more information?</b> Check out this <a href="https://github.com/uzh-rpg/event-based_vision_resources">List of Event-based Vision Resources</a>.</li>
 </ul>
 
 ## Related Workshops
 
 <ul>
-  <li><b><a href="https://tub-rip.github.io/eventvision2023/">CVPR 2023 Fourth International Workshop on Event-based Vision</a>. 
-  <a href="https://www.youtube.com/playlist?list=PLeXWz-g2If96iotpzgBNNTr9VA6hG-LLK">Videos</a></b></li>
-  <li><b><a href="https://tub-rip.github.io/eventvision2021/">CVPR 2021 Third International Workshop on Event-based Vision</a>.
-  <a href="https://www.youtube.com/playlist?list=PLeXWz-g2If95mjNpA-y-WIoDaoB8WtmE7">Videos</a></b></li>
-  <li><b><a href="http://rpg.ifi.uzh.ch/CVPR19_event_vision_workshop.html">CVPR 2019 Second International Workshop on Event-based Vision and Smart Cameras</a>.
-  <a href="https://www.youtube.com/playlist?list=PLeXWz-g2If97iGiuBHmnW8IFIxwvSeCHx">Videos</a></b></li>
-  <li><b><a href="http://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html">ICRA 2017 First International Workshop on Event-based Vision</a>.
-  <a href="https://www.youtube.com/playlist?list=PLeXWz-g2If94k8mw6GcKU5C9PUgM1sK0U">Videos</a></b></li>
+  <li><a href="https://tub-rip.github.io/eventvision2023/">CVPR 2023 Fourth International Workshop on Event-based Vision</a>. 
+  <a href="https://www.youtube.com/playlist?list=PLeXWz-g2If96iotpzgBNNTr9VA6hG-LLK">Videos</a></li>
+  <li><a href="https://tub-rip.github.io/eventvision2021/">CVPR 2021 Third International Workshop on Event-based Vision</a>.
+  <a href="https://www.youtube.com/playlist?list=PLeXWz-g2If95mjNpA-y-WIoDaoB8WtmE7">Videos</a></li>
+  <li><a href="http://rpg.ifi.uzh.ch/CVPR19_event_vision_workshop.html">CVPR 2019 Second International Workshop on Event-based Vision</a>.
+  <a href="https://www.youtube.com/playlist?list=PLeXWz-g2If97iGiuBHmnW8IFIxwvSeCHx">Videos</a></li>
+  <li><a href="http://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html">ICRA 2017 First International Workshop on Event-based Vision</a>.
+  <a href="https://www.youtube.com/playlist?list=PLeXWz-g2If94k8mw6GcKU5C9PUgM1sK0U">Videos</a></li>
 </ul>
 
 See also [this link](https://github.com/uzh-rpg/event-based_vision_resources?tab=readme-ov-file#workshops)
