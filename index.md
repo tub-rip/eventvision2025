@@ -73,7 +73,7 @@ A longer list of related topics is available in the table of content of the [Lis
 ### Courtesy papers (in the poster session)
 <div style="text-align: justify">
   We also solicit contributions of <b>papers relevant to the workshop that are accepted</b> at the CVPR main conference or at other peer-reviewed conferences or journals.
-  These contributions will be checked for suitability (soft review) and <b>will not be published in the workshop proceedings</b>.
+  These contributions will be checked for suitability (soft review) and will not be published in the workshop proceedings.
   Papers should be submitted in single blind format (e.g., accepted version is fine), and should mention if and where the paper has been accepted / published. These contributions provide visibility to your work and help building a community around the topics of the workshop. 
   </div>
 
@@ -81,25 +81,32 @@ A longer list of related topics is available in the table of content of the [Lis
 
 ### Eye-tracking
 
-<div style="text-align: justify">
+<p><div style="text-align: justify">
 We are excited to arrange a challenge focused on advancing event-based eye tracking, a key technology for driving innovations in interaction technology and extended reality (XR). 
 While current state-of-the-art devices like Apple's Vision Pro or Meta’s Aria glasses utilize frame-based eye tracking with frame rates from 10 to 100 Hz and latency around 11 ms, there is a pressing need for smoother, faster, and more efficient methods to enhance user experience. By leveraging two different event-based eye tracking datasets (the <a href="https://arxiv.org/pdf/2409.15584">Enhanced Ev-Eye dataset</a> and the <a href="https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/papers/Wang_Event-Based_Eye_Tracking._AIS_2024_Challenge_Survey_CVPRW_2024_paper.pdf">3ET+ dataset</a>), this challenge offers participants the
 opportunity to contribute to cutting-edge solutions that push beyond current limitations. 
 Both datasets are readily available, have been ethically collected with full consent and strict privacy
 protections, and have been validated. 
-</div>
+</div></p>
 
-<div style="text-align: justify">
+<p><div style="text-align: justify">
 Submissions will be evaluated on accuracy and model efficiency to ensure low latency. 
 <!-- The competition is scheduled to begin on February 5, 2025, with submissions due by March 15, 2025, and results announced on April 20, 2025. 
 --> 
 We believe the outcomes of this challenge will play an important role in shaping the future of XR
 and interaction technology by pushing the boundaries of what's possible in eye tracking. 
-</div>
+</div></p>
+
+<p><div style="text-align: justify">
+Contact: 
+<a href="https://sites.google.com/view/qinyu">Prof. Qinyu Chen</a> and 
+<a href="mailto:dperrone@prophesee.ai">Dr. Daniele Perrone</a>
+</div></p>
+
 
 ### Space-time Instance Segmentation (SIS) using frames and events
 
-<div style="text-align: justify">
+<p><div style="text-align: justify">
 Event cameras react to moving objects in the scene and are a natural fit for all kinds of tracking problems. However, in object tracking event-based solutions lack far behind its conventional frame-based counterparts, in part due to missing annotated data. 
 The new open-source <a href="https://github.com/tub-rip/MouseSIS">MouseSIS dataset</a> (ECCVW 2024) aims to overcome this problem with annotations for a task called Space-time Instance Segmentation (SIS), requiring algorithms to predict multi-object tracking and segmentation of all objects (in this case mice) in the scene. 
 We are excited to announce the first SIS Challenge. 
@@ -109,14 +116,20 @@ All recordings adhered to the ethical guidelines under German law.
 Algorithms will be evaluated based on the quality of the tracking predictions judged on the main metric Higher Order Tracking Accuracy (HOTA). As one of the interesting properties of event cameras is their
 sparse input, we want to incentivize efficient algorithms and additionally evaluate FLOPS and
 runtime per ground truth step (ms). 
-</div>
+</div></p>
 
-<div style="text-align: justify">
+<p><div style="text-align: justify">
 In short, submissions will be evaluated in two tracks (frames + events, event-only) and two figures of merit: accuracy and efficiency. 
 Participants can train the models using any publicly available open-source dataset, but are requested to submit a technical report with all details alongside their submission and to open-source their code. 
 <!-- The tentative timeline is: Challenge starts on January 8th, 2025; Challenge ends on May 9th, 2025; Results are announced on May 16th, 2025. -->
 This challenge aims to advance the state of the art in event-based fine-grained tracking for tasks that can be useful for scientific purposes, such as biologist and ecologist, as in the recent breakthrough of DeepLabCut.
-</div>
+</div></p>
+
+<p><div style="text-align: justify">
+Contact: 
+<a href="https://friedhelmhamann.github.io/">Friedhelm Hamann</a>
+</div></p>
+
 
 <!-- 
 ### SLAM
