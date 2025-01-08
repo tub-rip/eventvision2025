@@ -2,7 +2,7 @@
 
 **June TBD, 2025, CVPR**, Nashville (TN), USA.
 <!-- Starts at **10 am [Eastern Time](https://time.is/ET)**;  4 pm [Europe Time](https://time.is/CET). -->  
-Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/) 2025.
+Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/) 2025.
 
 <b>Welcome to the 5th International Workshop on Event-Based Vision!</b>  
 
@@ -70,7 +70,7 @@ A longer list of related topics is available in the table of content of the [Lis
 
 <p><div style="text-align: justify">
   A double blind peer-review process of the submissions received is carried out via CMT / OpenReview (TBD).
-  Accepted papers will be published open access through the Computer Vision Foundation (CVF) (see <a href="https://openaccess.thecvf.com/CVPR2023_workshops/EventVision">examples from CVPR Workshop 2023, <a href="https://openaccess.thecvf.com/CVPR2021_workshops/EventVision">2021</a> <a href="https://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_EventVision">and 2019</a>).
+  Accepted papers will be published open access through the Computer Vision Foundation (CVF) (see <a href="https://openaccess.thecvf.com/CVPR2023_workshops/EventVision">examples from CVPR Workshop 2023</a>, <a href="https://openaccess.thecvf.com/CVPR2021_workshops/EventVision">2021</a> <a href="https://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_EventVision">and 2019</a>).
   For the accepted papers we encourage authors to write a paragraph about ethical considerations and impact of their work.
 </div></p>
 
