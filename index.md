@@ -6,7 +6,7 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 
 <b>Welcome to the 5th International Workshop on Event-Based Vision!</b>  
 
-[![CVPRW 2023 edition photo by S. Shiba](/images/CVPRW2023_EventVision_group_picture.jpg)](https://photos.app.goo.gl/z5gMLG2AF6U5qHcY7)
+![CVPRW 2023 edition photo by S. Shiba](/images/CVPRW2023_EventVision_group_picture.jpg)
 <!-- Many thanks to all who contributed and made this workshop possible! --> 
 
 ## Important Dates
@@ -44,9 +44,7 @@ approaches.
 - Event-based representation, signal processing, and control.
 - Event-based active vision, event-based sensorimotor integration.
 - Event camera datasets and/or simulators.
-- Applications in: computational photography, robotics (navigation, manipulation, drones,
-1obstacle avoidance, human-robot interaction,...), automotive, IoT, AR/VR (e.g., smart eyewear),
-space science, automated inspection, surveillance, crowd counting, physics, biology.
+- Applications in: computational photography, robotics (navigation, manipulation, drones, obstacle avoidance, human-robot interaction,...), automotive, IoT, AR/VR (e.g., smart eyewear), space science, automated inspection, surveillance, crowd counting, physics, biology.
 - Novel hardware (cameras, neuromorphic processors, etc.) and/or software platforms, such as
 fully event-based systems (end-to-end).
 - New trends and challenges in event-based and/or biologically-inspired vision (SNNs, Reservoir
@@ -58,14 +56,18 @@ Space Models).
 A longer list of related topics is available in the table of content of the [List of Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)
 
 
-## Call for Papers
+## Call for Contributions
+
+### Research papers
 
 <p><div style="text-align: justify">
-  Research papers and demos are solicited in, but not limited to, the topics listed above.
+  <b>Research papers</b> and demos are solicited in, but not limited to, the topics listed above.
 </div></p>
 
   - <b>Paper</b> submissions must adhere to the CVPR 2025 paper submission style, format and length restrictions.
-  See the <a href="https://cvpr.thecvf.com/Conferences/2025/AuthorGuidelines">author guidelines</a> and <a href="https://github.com/cvpr-org/author-kit/releases">template</a> provided by the CVPR 2025 main conference. See also the policy of <a href="https://iccv.thecvf.com/Conferences/2025/CallForPapers">Dual/Double Submissions of concurrently-reviewed conferences, such as ICCV</a>.  
+  See the <a href="https://cvpr.thecvf.com/Conferences/2025/AuthorGuidelines">author guidelines</a> and <a href="https://github.com/cvpr-org/author-kit/releases">template</a> provided by the CVPR main conference. These submissions are meant to represent novel contributions, i.e., unpublished work (submissions should not have been published, accepted or be under review elsewhere).
+   Accepted papers will be published open access through the Computer Vision Foundation (CVF) (see <a href="https://openaccess.thecvf.com/CVPR2023_workshops/EventVision">examples from CVPR Workshop 2023</a>, <a href="https://openaccess.thecvf.com/CVPR2021_workshops/EventVision">2021</a> <a href="https://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_EventVision">and 2019</a>). We encourage authors of accepted papers to write a paragraph about ethical considerations and impact of their work.
+  
   - For <b>demo</b> abstract submission, authors are encouraged to submit an abstract of up to 2 pages using the same template as CVPR 2025 paper submissions.
 
 <p><div style="text-align: justify">
@@ -74,18 +76,44 @@ A longer list of related topics is available in the table of content of the [Lis
   For the accepted papers we encourage authors to write a paragraph about ethical considerations and impact of their work.
 </div></p>
 
-### Courtesy presentations (in the poster session)
+### Courtesy papers (in the poster session)
 <div style="text-align: justify">
-  We also invite courtesy presentations of papers relevant to the workshop that are accepted at CVPR main conference or at other peer-reviewed conferences or journals.
-  These presentations provide visibility to your work and help building a community around the topics of the workshop. These contributions will be checked for relevance to the workshop, but will not undergo a complete review, and will not be published in the workshop proceedings.
-  Please contact the organizers to make arrangements to showcase your work at the workshop.  
-</div>
+  We also solicit contributions of papers relevant to the workshop that are accepted at the CVPR main conference or at other peer-reviewed conferences or journals.
+  These contributions will be checked for relevance to the workshop, but will not undergo a complete review, and will not be published in the workshop proceedings.
+  Papers should be submitted in single blind format (e.g., accepted version is fine), and should mention if and where the paper has been accepted / published. These contributions provide visibility to your work and help building a community around the topics of the workshop. 
+  </div>
 
 ## Contests / Challenges
 
 ### Eye-tracking
 
-### Instance segmentation
+We are excited to arrange a challenge focused on advancing event-based eye tracking, a key technology for driving innovations in interaction technology and extended reality (XR). 
+While current state-of-the-art devices like Apple's Vision Pro or Meta’s Aria glasses utilize frame-based eye tracking with frame rates from 10 to 100 Hz and latency around 11 ms, there is a pressing need for smoother, faster, and more efficient methods to enhance user experience. By leveraging two different event-based eye tracking datasets (the [Enhanced Ev-Eye dataset](https://arxiv.org/pdf/2409.15584) and the [3ET+ dataset](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/papers/Wang_Event-Based_Eye_Tracking._AIS_2024_Challenge_Survey_CVPRW_2024_paper.pdf)), this challenge offers participants the
+opportunity to contribute to cutting-edge solutions that push beyond current limitations. 
+Both datasets are readily available, have been ethically collected with full consent and strict privacy
+protections, and have been validated. 
+
+Submissions will be evaluated on accuracy and model efficiency to ensure low latency. 
+<!-- The competition is scheduled to begin on February 5, 2025, with submissions due by March 15, 2025, and results announced on April 20, 2025. 
+--> 
+We believe the outcomes of this challenge will play an important role in shaping the future of XR
+and interaction technology by pushing the boundaries of what's possible in eye tracking. 
+
+### Space-time Instance Segmentation using frames and events
+Event cameras react to moving objects in the scene and are a natural fit for all kinds of tracking problems. However, in object tracking event-based solutions lack far behind its conventional frame-based counterparts, in part due to missing annotated data. 
+The new open-source [MouseSIS dataset](https://github.com/tub-rip/MouseSIS) (ECCVW 2024) aims to overcome this problem with annotations for a task called Space-time Instance Segmentation (SIS), requiring algorithms to predict multi-object tracking and segmentation of all objects (in this case mice) in the scene. 
+We are excited to announce the first SIS Challenge. 
+It will be hosted on Codalab and evaluated on a non-publicly available test set. 
+The dataset contains data and video instance segmentation annotations for mice. 
+All recordings adhered to the ethical guidelines under German law. 
+
+Algorithms will be evaluated based on the quality of the tracking predictions judged on the main metric Higher Order Tracking Accuracy (HOTA). As one of the interesting properties of event cameras is their
+sparse input, we want to incentivize efficient algorithms and additionally evaluate FLOPS and
+runtime per ground truth step (ms). 
+In short, submissions will be evaluated in two tracks (frames + events, event-only) and two figures of merit: accuracy and efficiency. 
+Participants can train the models using any publicly available open-source dataset, but are requested to submit a technical report with all details alongside their submission and to open-source their code. 
+<!-- The tentative timeline is: Challenge starts on January 8th, 2025; Challenge ends on May 9th, 2025; Results are announced on May 16th, 2025. -->
+This challenge aims to advance the state of the art in event-based fine-grained tracking for tasks that can be useful for scientific purposes, such as biologist and ecologist, as in the recent breakthrough of DeepLabCut.
 
 <!-- 
 ### SLAM
@@ -117,9 +145,9 @@ Time (local) | Session
 
 ## Organizers
 
-<! -- ![organizers](images/workshop_organizers_60.jpg) -->
+<!-- ![organizers](images/workshop_organizers_60.jpg) -->
 
-- [Guillermo Gallego](http://www.guillermogallego.es), TU Berlin, Einstein Center Digital Future, [Science of Intelligence Excellence Cluster (SCIoI)](https://www.scienceofintelligence.de/), Germany.
+- [Guillermo Gallego](http://www.guillermogallego.es), TU Berlin, Germany.
 <!-- - [Davide Scaramuzza](http://rpg.ifi.uzh.ch/people_scaramuzza.html), University of Zurich, Switzerland. -->
 - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas), University of Pennsylvania, USA.
 - [Cornelia Fermüller](http://users.umiacs.umd.edu/~fer), University of Maryland, USA.
@@ -142,34 +170,18 @@ Time (local) | Session
 
 ## Related Workshops
 
-See also [this link](https://github.com/uzh-rpg/event-based_vision_resources?tab=readme-ov-file#workshops)
 <ul>
-  <li><a href="https://www.gdr-isis.fr/index.php/reunion/499/">Caméra à événements appliquée à la robotique</a>, Sorbonne University, Paris (Nov. 16th, 2023).
-  <a href="slides/2023-11_Workshop_event_cameras_Sorbonne.pdf">Announcement</a></li>
-  <li><a href="https://imagesensors.org/2023-international-image-sensor-workshop/">2023 Int. Image Sensor Workshop (IISW)</a>.</li>
-  <li><a href="https://sites.google.com/view/eventsensorfusion2022/home">MFI 2022 First Neuromorphic Event Sensor Fusion Workshop</a>.
-    <a href="https://youtube.com/playlist?list=PLVtZ8f-q0U5gXhjN4inwWZi66bp5vp-lN">Videos</a></li>
-  <li><a href="https://www.tinyml.org/event/tinyml-neuromorphic-engineering-forum/">tinyML Neuromorphic Engineering Forum</a>.
-    <a href="https://www.youtube.com/playlist?list=PLeisuBi-nfBM5HayCqF4KMBaJciV5UkLX">Videos</a></li>  
-  <li><a href="https://sites.google.com/view/telluride-2022/home">2022 Telluride Neuromorphic workshop.</a></li>
-  <li><a href="https://sites.google.com/view/tellurideneuromorphic2021/home">2021 Telluride Neuromorphic workshop.</a></li>
-  <li><a href="https://tub-rip.github.io/eventvision2021/slides/ICCV2021Tutorial.pdf">ICCV 2021 Tutorial. Introduction to Event Detection Cameras</a>.</li>
+  <li><b><a href="https://tub-rip.github.io/eventvision2023/">CVPR 2023 Fourth International Workshop on Event-based Vision</a>. 
+  <a href="https://www.youtube.com/playlist?list=PLeXWz-g2If96iotpzgBNNTr9VA6hG-LLK">Videos</a></b></li>
   <li><b><a href="https://tub-rip.github.io/eventvision2021/">CVPR 2021 Third International Workshop on Event-based Vision</a>.
-    <a href="https://www.youtube.com/playlist?list=PLeXWz-g2If95mjNpA-y-WIoDaoB8WtmE7">Videos</a></b></li>
-  <li><a href="https://sites.google.com/view/onsvp-icra-2021-workshop/home">ICRA 2021 Workshop On- and Near-sensor Vision Processing, from Photons to Applications (ONSVP)</a>.</li>
-  <li><a href="https://robotics.sydney.edu.au/icra-workshop/">ICRA 2020 Workshop on Sensing, Estimating and Understanding the Dynamic World. Session on Event-based camera companies iniVation and Prophesee</a>.</li>
-  <li><a href="https://sites.google.com/view/unconventional-sensors">ICRA 2020 Workshop on Unconventional Sensors in Robotics</a>.
-      <a href="https://www.youtube.com/playlist?list=PLtW5yHT6tQuD4sLzkldzZEyQ4hz77K64-">Videos</a></li>
+  <a href="https://www.youtube.com/playlist?list=PLeXWz-g2If95mjNpA-y-WIoDaoB8WtmE7">Videos</a></b></li>
   <li><b><a href="http://rpg.ifi.uzh.ch/CVPR19_event_vision_workshop.html">CVPR 2019 Second International Workshop on Event-based Vision and Smart Cameras</a>.
-      <a href="https://www.youtube.com/playlist?list=PLeXWz-g2If97iGiuBHmnW8IFIxwvSeCHx">Videos</a></b></li>
-  <li><a href="https://www.jmartel.net/irosws-home">IROS 2018 Workshop on Unconventional Sensing and Processing for Robotic Visual Perception</a>.</li>
+  <a href="https://www.youtube.com/playlist?list=PLeXWz-g2If97iGiuBHmnW8IFIxwvSeCHx">Videos</a></b></li>
   <li><b><a href="http://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html">ICRA 2017 First International Workshop on Event-based Vision</a>.
-      <a href="https://www.youtube.com/playlist?list=PLeXWz-g2If94k8mw6GcKU5C9PUgM1sK0U">Videos</a></b></li>
-  <li><a href="http://innovative-sensing.mit.edu/">ICRA 2015 Workshop on Innovative Sensing for Robotics, with focus on Neuromorphic Sensors</a>.</li>
-  <li><a href="http://www.rit.edu/kgcoe/iros15workshop/papers/IROS2015-WASRoP-Invited-04-slides.pdf">Event-Based Vision for High-Speed Robotics (slides)</a> IROS 2015, Workshop on Alternative Sensing for Robot Perception.</li>
-  <li><a href="http://telluride.iniforum.ch">The Telluride Neuromorphic Cognition Engineering Workshops</a>.</li>
-  <li><a href="http://capocaccia.iniforum.ch">Capo Caccia Workshops toward Cognitive Neuromorphic Engineering</a>.</li>
+  <a href="https://www.youtube.com/playlist?list=PLeXWz-g2If94k8mw6GcKU5C9PUgM1sK0U">Videos</a></b></li>
 </ul>
+
+See also [this link](https://github.com/uzh-rpg/event-based_vision_resources?tab=readme-ov-file#workshops)
 
 <!-- 
 ## Supported by
