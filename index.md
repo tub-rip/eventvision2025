@@ -6,9 +6,6 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 
 <b>Welcome to the 5th International Workshop on Event-Based Vision!</b>  
 
-![CVPRW 2023 edition photo by S. Shiba](/images/CVPRW2023_EventVision_group_picture.jpg)
-<!-- Many thanks to all who contributed and made this workshop possible! --> 
-
 ## Important Dates
 
 - **Paper submission deadline: March 12**, 2025 (23:59h PST).  <!-- [Submission website (CMT)](https://cmt3.research.microsoft.com/EVENTVISION2025) -->
@@ -18,6 +15,9 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 - [Early-bird registration **April 30th** (23:59h ET)](https://cvpr.thecvf.com/Conferences/2025/Pricing2)
 - Standard registration begins May 1st.
 - <b>Workshop day: **June June 11th or 12th (TBD), 2025**. Full day workshop.</b>
+
+![CVPRW 2023 edition photo by S. Shiba](/images/CVPRW2023_EventVision_group_picture.jpg)
+<!-- Many thanks to all who contributed and made this workshop possible! --> 
 
 <!--
 ## <span style="color:tomato;">[Photo Album of the Workshop](https://photos.app.goo.gl/z5gMLG2AF6U5qHcY7)</span>
