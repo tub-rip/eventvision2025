@@ -87,9 +87,6 @@ While current state-of-the-art devices like Apple's Vision Pro or Meta’s Aria 
 opportunity to contribute to cutting-edge solutions that push beyond current limitations. 
 Both datasets are readily available, have been ethically collected with full consent and strict privacy
 protections, and have been validated. 
-</div></p>
-
-<p><div style="text-align: justify">
 Submissions will be evaluated on accuracy and model efficiency to ensure low latency. 
 <!-- The competition is scheduled to begin on February 5, 2025, with submissions due by March 15, 2025, and results announced on April 20, 2025. 
 --> 
@@ -98,10 +95,22 @@ and interaction technology by pushing the boundaries of what's possible in eye t
 </div></p>
 
 <p><div style="text-align: justify">
-Contact: 
-<a href="https://sites.google.com/view/qinyu">Prof. Qinyu Chen</a> and 
-<a href="mailto:dperrone@prophesee.ai">Dr. Daniele Perrone</a>
+  <a href="https://lab-ics.github.io/3et-2025.github.io/"><b>Eye-tracking Challenge website</b></a>
 </div></p>
+Challenge timeline:
+<ul>
+  <li>Challenge Start: February 10, 2025</li>
+  <li>Challenge End: March 15, 2025</li>
+  <li>Top-ranking teams will be invited to submit factsheet, code, and paper after competition ends, the submission deadline: March 25, 2025</li>
+  <li>Top-ranking teams will be invited to write challenge report together, the deadline: April 5, 2025</li>
+  <li>Paper review deadline: April 5, 2025 </li>
+</ul>
+Contact:
+<ul>
+  <li><a href="https://sites.google.com/view/qinyu">Prof. Qinyu Chen</a> (q.chen [at] liacs [dot] leidenuniv [dot] nl)</li>
+  <li><a href="https://www.tudemi.com/">Prof. Chang Gao</a> (chang.gao [at] tudelft [dot] nl)</li>
+  <!-- <li><a href="mailto:dperrone@prophesee.ai">Dr. Daniele Perrone</a></li> -->
+</ul>
 
 
 ### Space-time Instance Segmentation (SIS) using frames and events
