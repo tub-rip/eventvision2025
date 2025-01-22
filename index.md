@@ -8,7 +8,7 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 
 ## Important Dates
 
-- **Paper submission deadline: March 12**, 2025 (23:59h PST).  <!-- [Submission website (CMT)](https://cmt3.research.microsoft.com/EVENTVISION2025) -->
+- **Paper submission deadline: March 12**, 2025 (23:59h PST).  **[Submission website (CMT)](https://cmt3.research.microsoft.com/EVENTVISION2025)**
 - **Demo abstract submission: March 12**, 2025 (23:59h PST)
 - Notification to authors: April 1, 2025.
 - Camera-ready paper: April 7, 2025 (as per CVPR website, deadline set by IEEE)
@@ -213,3 +213,7 @@ See also [this link](https://github.com/uzh-rpg/event-based_vision_resources?tab
 
 <a href="https://www.scienceofintelligence.de"><img src="images/ScioI_Logo_L.svg" width="348"></a>
 -->
+
+## 
+
+The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
