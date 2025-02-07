@@ -124,8 +124,7 @@ Contact:
 <ul>
     <li><b>Task</b>: Predict mask-accurate tracks of all mouse instances from input events (and optional frames).</li>
     <li><b>Data</b>: This challenge is based on the <a href="https://github.com/tub-rip/MouseSIS"><b>MouseSIS dataset</b></a>.</li>
-    <li><b>Tracks</b>: (i) Frame + Events Track, and (ii) Events-only Track</li>
-  </ul>
+    <li><b>Two Tracks</b>: (1) Frame + Events Track, and (2) Events-only Track.</li>
 </ul>  
 
 <a href="https://www.codabench.org/competitions/5600/"><b>Challenge Page (Codabench)</b></a>
