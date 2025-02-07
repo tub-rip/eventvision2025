@@ -114,7 +114,7 @@ Contact:
 
 ### 2. Space-time Instance Segmentation (SIS) Challenge
 
-<table style="width:100%">
+<table cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <p><b>Overview</b></p>
