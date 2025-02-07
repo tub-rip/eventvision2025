@@ -112,33 +112,60 @@ Contact:
   <!-- <li><a href="mailto:dperrone@prophesee.ai">Dr. Daniele Perrone</a></li> -->
 </ul>
 
+### Space-time Instance Segmentation (SIS)
 
-### Space-time Instance Segmentation (SIS) using frames and events
+<p align="center">
+ <a href="https://www.codabench.org/competitions/5600/">
+    <img src="./images/sis_challenge_visu.png" alt="MouseSIS Visualization" width="600"/>
+ </a>
+</p>
 
-<p><div style="text-align: justify">
-Event cameras react to moving objects in the scene and are a natural fit for all kinds of tracking problems. However, in object tracking event-based solutions lack far behind its conventional frame-based counterparts, in part due to missing annotated data. 
-The new open-source <a href="https://github.com/tub-rip/MouseSIS">MouseSIS dataset</a> (ECCVW 2024) aims to overcome this problem with annotations for a task called Space-time Instance Segmentation (SIS), requiring algorithms to predict multi-object tracking and segmentation of all objects (in this case mice) in the scene. 
-We are excited to announce the first SIS Challenge. 
-It will be hosted on Codalab and evaluated on a non-publicly available test set. 
-The dataset contains data and video instance segmentation annotations for mice. 
-All recordings adhered to the ethical guidelines under German law. 
-Algorithms will be evaluated based on the quality of the tracking predictions judged on the main metric Higher Order Tracking Accuracy (HOTA). As one of the interesting properties of event cameras is their
-sparse input, we want to incentivize efficient algorithms and additionally evaluate FLOPS and
-runtime per ground truth step (ms). 
-</div></p>
+#### Overview
 
-<p><div style="text-align: justify">
-In short, submissions will be evaluated in two tracks (frames + events, event-only) and two figures of merit: accuracy and efficiency. 
-Participants can train the models using any publicly available open-source dataset, but are requested to submit a technical report with all details alongside their submission and to open-source their code. 
-<!-- The tentative timeline is: Challenge starts on January 8th, 2025; Challenge ends on May 9th, 2025; Results are announced on May 16th, 2025. -->
-This challenge aims to advance the state of the art in event-based fine-grained tracking for tasks that can be useful for scientific purposes, such as biologist and ecologist, as in the recent breakthrough of DeepLabCut.
-</div></p>
+<ul>
+ <li><b>Task</b>: Predict mask-accurate tracks of all mouse instances from input events (and optional frames).</li>
+ <li><b>Data</b>: This challenge is based on the <a href="https://github.com/tub-rip/MouseSIS"><b>MouseSIS</b></a> dataset.</li>
+ <li><b>Tracks</b>:
+    <ul>
+        <li>Frame + Events Track</li>
+        <li>Events-only Track</li>
+    </ul>
+ </li>
+</ul>
 
-<p><div style="text-align: justify">
-Contact: 
-<a href="https://friedhelmhamann.github.io/">Friedhelm Hamann</a>
-</div></p>
+#### Resources
 
+<ul>
+  <li><a href="https://www.codabench.org/competitions/5600/"><b>Challenge Page (Codabench)</b></a></li>
+  <li><a href="https://github.com/tub-rip/MouseSIS"><b>MouseSIS Dataset</b></a></li>
+</ul>
+
+#### Timeline
+
+<ul>
+ <li><b>February 7, 2025</b>: Challenge opens for submissions</li>
+ <li><b>May 23, 2025</b>: Challenge closes, final submission deadline</li>
+ <li><b>May 26, 2025</b>: Winners announced</li>
+ <li><b>After winning</b>:
+    <ul>
+        <li>Top teams invited to submit factsheets and code</li>
+        <li>Top teams invited to collaborate on challenge report</li>
+        <li>Top teams invited to present a poster at the CVPR workshop</li>
+    </ul>
+ </li>
+ <li><b>June 6, 2025</b>: Deadline for winners to submit:
+    <ul>
+        <li>Factsheets</li>
+        <li>Code</li>
+        <li>Challenge report</li>
+    </ul>
+ </li>
+ <li><b>June 11-12, 2025</b>: Results presentation (Posters) at CVPR 2025 Workshop on Event-based Vision</li>
+</ul>
+
+#### Contact
+
+<a href="https://friedhelmhamann.github.io/">Friedhelm Hamann</a> (f.hamann [at] tu-berlin [dot] de)
 
 <!-- 
 ### SLAM
