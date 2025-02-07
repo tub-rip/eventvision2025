@@ -153,6 +153,15 @@ Contact:
 
 ### 3. Event-Based Image Deblurring Challenge
 
+<b>Overview</b>:
+
+This challenge focuses on leveraging the high-temporal-resolution events from event cameras to improve image deblurring. We hope that this challenge will serve as a starting point for promoting event-based image enhancement on a broader stage and contribute to the thriving development of the event-based vision community.
+
+<ul>
+    <li><b>Task</b>: To obtain a network design / solution that fusing events and images produces high quality results with the best performance (i.e., PSNR).</li>
+    <li><b>Data</b>: This challenge is based on the <a href="https://github.com/AHupuJR/NTIRE2025_EventDeblur_challenge"><b>HighREV dataset</b></a>.</li>
+</ul>  
+
 <a href="https://codalab.lisn.upsaclay.fr/competitions/21498"><b>Challenge Page (CodaLab)</b></a>
 
 <b>Timeline</b>:
