@@ -153,6 +153,9 @@ Contact:
 
 ### 3. Event-Based Image Deblurring Challenge
 
+<img src="./images/deblur_camera-fast.gif" alt="Deblur with events" width="500"/>
+
+
 <b>Overview</b>:
 
 This challenge focuses on leveraging the high-temporal-resolution events from event cameras to improve image deblurring. We hope that this challenge will serve as a starting point for promoting event-based image enhancement on a broader stage and contribute to the thriving development of the event-based vision community.
