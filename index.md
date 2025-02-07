@@ -112,61 +112,65 @@ Contact:
   <!-- <li><a href="mailto:dperrone@prophesee.ai">Dr. Daniele Perrone</a></li> -->
 </ul>
 
+---
+
 ### 2. Space-time Instance Segmentation (SIS) Challenge
 
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <p><b>Overview</b></p>
-      <ul>
-        <li><b>Task</b>: Predict mask-accurate tracks of all mouse instances from input events (and optional frames).</li>
-        <li><b>Data</b>: This challenge is based on the <a href="https://github.com/tub-rip/MouseSIS"><b>MouseSIS</b></a> dataset.</li>
-        <li><b>Tracks</b>:
-    <ul>
-        <li>Frame + Events Track</li>
-        <li>Events-only Track</li>
-    </ul>
- </li>
-</ul>
-    </td>
-    <td>
-      <a href="https://www.codabench.org/competitions/5600/">
-        <img src="./images/sis_challenge_visu.png" alt="MouseSIS Visualization" width="600"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<b>Resources</b>
+<a href="https://www.codabench.org/competitions/5600/">
+  <img src="./images/sis_challenge_visu.png" alt="MouseSIS Visualization" width="500"/>
+</a>
+      
+<b>Overview</b>:
 <ul>
-  <li><a href="https://www.codabench.org/competitions/5600/"><b>Challenge Page (Codabench)</b></a></li>
-  <li><a href="https://github.com/tub-rip/MouseSIS"><b>MouseSIS Dataset</b></a></li>
-</ul>
+    <li><b>Task</b>: Predict mask-accurate tracks of all mouse instances from input events (and optional frames).</li>
+    <li><b>Data</b>: This challenge is based on the <a href="https://github.com/tub-rip/MouseSIS"><b>MouseSIS dataset</b></a>.</li>
+    <li><b>Tracks</b>: (i) Frame + Events Track, and (ii) Events-only Track</li>
+  </ul>
+</ul>  
 
-<b>Timeline</b>
+<a href="https://www.codabench.org/competitions/5600/"><b>Challenge Page (Codabench)</b></a>
+
+<b>Timeline</b>:
 <ul>
  <li><b>February 7, 2025</b>: Challenge opens for submissions</li>
  <li><b>May 23, 2025</b>: Challenge closes, final submission deadline</li>
- <li><b>May 26, 2025</b>: Winners announced</li>
- <li><b>After winning</b>:
+ <li><b>May 26, 2025</b>: Winners announced.
+ Top teams are invited to:
     <ul>
-        <li>Top teams invited to submit factsheets and code</li>
-        <li>Top teams invited to collaborate on challenge report</li>
-        <li>Top teams invited to present a poster at the CVPR workshop</li>
+        <li>submit factsheets and code</li>
+        <li>collaborate on challenge report</li>
+        <li>present a poster at the CVPR workshop</li>
     </ul>
  </li>
- <li><b>June 6, 2025</b>: Deadline for winners to submit:
-    <ul>
-        <li>Factsheets</li>
-        <li>Code</li>
-        <li>Challenge report</li>
-    </ul>
+ <li><b>June 6, 2025</b>: Deadline for top teams to submit: Factsheets, Code and Challenge report.
  </li>
  <li><b>June 11-12, 2025</b>: Results presentation (Posters) at CVPR 2025 Workshop on Event-based Vision</li>
 </ul>
 
 <b>Contact</b>:
 <a href="https://friedhelmhamann.github.io/">Friedhelm Hamann</a> (f.hamann [at] tu-berlin [dot] de)
+
+---
+
+### 3. Event-Based Image Deblurring Challenge
+
+<a href="https://codalab.lisn.upsaclay.fr/competitions/21498"><b>Challenge Page (CodaLab)</b></a>
+
+<b>Timeline</b>:
+<ul>
+ <li><b>February 10, 2025</b>: Challenge opens for submissions</li>
+ <li><b>March 15, 2025</b>: Final test data release</li>
+ <li><b>March 21, 2025</b>: Challenge ends: submission deadline to upload results on the final test data</li>
+ <li><b>March 22, 2025</b>: Fact sheets and code/executable submission deadline</li>
+ <li><b>March 24, 2025</b>: Preliminary test results release to the participants</li>
+ <li><b>April 1st, 2025</b>: Paper submission deadline for entries from the challenge</li>
+ <li><b>June 11-12, 2025</b>: Results presentation at CVPR 2025 Workshop NTIRE and/or Workshop on Event-based Vision (Poster)</li>
+</ul>
+
+<b>Contact</b>:
+<a href="https://ahupujr.github.io/">Lei Sun</a> (leo_sun [at] zju [dot] edu [dot] cn)
+
+---
 
 <!-- 
 ### SLAM
