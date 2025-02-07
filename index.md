@@ -79,7 +79,7 @@ A longer list of related topics is available in the table of content of the [Lis
 
 ## Competitions / Challenges
 
-### Eye-tracking
+### 1. Eye-tracking
 
 <p><div style="text-align: justify">
 We are excited to arrange a challenge focused on advancing event-based eye tracking, a key technology for driving innovations in interaction technology and extended reality (XR). 
@@ -112,33 +112,38 @@ Contact:
   <!-- <li><a href="mailto:dperrone@prophesee.ai">Dr. Daniele Perrone</a></li> -->
 </ul>
 
-### [Space-time Instance Segmentation (SIS) Challenge](https://www.codabench.org/competitions/5600/)
+### 2. Space-time Instance Segmentation (SIS) Challenge
 
-<p align="center">
- <a href="https://www.codabench.org/competitions/5600/">
-    <img src="./images/sis_challenge_visu.png" alt="MouseSIS Visualization" width="400"/>
- </a>
-</p>
-
-Overview
-<ul>
- <li><b>Task</b>: Predict mask-accurate tracks of all mouse instances from input events (and optional frames).</li>
- <li><b>Data</b>: This challenge is based on the <a href="https://github.com/tub-rip/MouseSIS"><b>MouseSIS</b></a> dataset.</li>
- <li><b>Tracks</b>:
+<table style="width:100%">
+  <tr>
+    <td>
+      <p><b>Overview</b></p>
+      <ul>
+        <li><b>Task</b>: Predict mask-accurate tracks of all mouse instances from input events (and optional frames).</li>
+        <li><b>Data</b>: This challenge is based on the <a href="https://github.com/tub-rip/MouseSIS"><b>MouseSIS</b></a> dataset.</li>
+        <li><b>Tracks</b>:
     <ul>
         <li>Frame + Events Track</li>
         <li>Events-only Track</li>
     </ul>
  </li>
 </ul>
+    </td>
+    <td>
+      <a href="https://www.codabench.org/competitions/5600/">
+        <img src="./images/sis_challenge_visu.png" alt="MouseSIS Visualization" width="600"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-Resources
+<b>Resources</b>
 <ul>
   <li><a href="https://www.codabench.org/competitions/5600/"><b>Challenge Page (Codabench)</b></a></li>
   <li><a href="https://github.com/tub-rip/MouseSIS"><b>MouseSIS Dataset</b></a></li>
 </ul>
 
-Timeline
+<b>Timeline</b>
 <ul>
  <li><b>February 7, 2025</b>: Challenge opens for submissions</li>
  <li><b>May 23, 2025</b>: Challenge closes, final submission deadline</li>
@@ -160,7 +165,7 @@ Timeline
  <li><b>June 11-12, 2025</b>: Results presentation (Posters) at CVPR 2025 Workshop on Event-based Vision</li>
 </ul>
 
-Contact:
+<b>Contact</b>:
 <a href="https://friedhelmhamann.github.io/">Friedhelm Hamann</a> (f.hamann [at] tu-berlin [dot] de)
 
 <!-- 
