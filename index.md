@@ -83,11 +83,7 @@ A longer list of related topics is available in the table of content of the [Lis
 
 <p><div style="text-align: justify">
 We are excited to arrange a challenge focused on advancing event-based eye tracking, a key technology for driving innovations in interaction technology and extended reality (XR). 
-While current state-of-the-art devices like Apple's Vision Pro or Meta’s Aria glasses utilize frame-based eye tracking with frame rates from 10 to 100 Hz and latency around 11 ms, there is a pressing need for smoother, faster, and more efficient methods to enhance user experience. By leveraging two different event-based eye tracking datasets (the <a href="https://arxiv.org/pdf/2409.15584">Enhanced Ev-Eye dataset</a> and the <a href="https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/papers/Wang_Event-Based_Eye_Tracking._AIS_2024_Challenge_Survey_CVPRW_2024_paper.pdf">3ET+ dataset</a>), this challenge offers participants the
-opportunity to contribute to cutting-edge solutions that push beyond current limitations. 
-Both datasets are readily available, have been ethically collected with full consent and strict privacy
-protections, and have been validated. 
-Submissions will be evaluated on accuracy and model efficiency to ensure low latency. 
+While current state-of-the-art devices like Apple's Vision Pro or Meta’s Aria glasses utilize frame-based eye tracking with frame rates from 10 to 100 Hz and latency around 11 ms, there is a pressing need for smoother, faster, and more efficient methods to enhance user experience. By leveraging the event-based eye tracking dataset (the <a href="https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/papers/Wang_Event-Based_Eye_Tracking._AIS_2024_Challenge_Survey_CVPRW_2024_paper.pdf">3ET+ dataset</a>), this challenge offers participants the opportunity to contribute to cutting-edge solutions that push beyond current limitations.  
 <!-- The competition is scheduled to begin on February 5, 2025, with submissions due by March 15, 2025, and results announced on April 20, 2025. 
 --> 
 We believe the outcomes of this challenge will play an important role in shaping the future of XR
@@ -99,7 +95,7 @@ and interaction technology by pushing the boundaries of what's possible in eye t
 </div></p>
 Challenge timeline:
 <ul>
-  <li>Challenge Start: February 10, 2025</li>
+  <li>Challenge Start: February 15, 2025</li>
   <li>Challenge End: March 15, 2025</li>
   <li>Top-ranking teams will be invited to submit factsheet, code, and paper after competition ends, the submission deadline: March 25, 2025</li>
   <li>Top-ranking teams will be invited to write challenge report together, the deadline: April 5, 2025</li>
