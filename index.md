@@ -84,15 +84,12 @@ A longer list of related topics is available in the table of content of the [Lis
 <p><div style="text-align: justify">
 Overview: Thhis challenge focuses on advancing event-based eye tracking, a key technology for driving innovations in interaction technology, extended reality (XR) and cognitive studies. 
 While current state-of-the-art devices like Apple's Vision Pro or Meta’s Aria glasses utilize frame-based eye tracking with frame rates from 10 to 100 Hz and latency around 11 ms, there is a pressing need for smoother, faster, and more efficient methods to enhance user experience. By leveraging the event-based eye tracking dataset (<a href="https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/papers/Wang_Event-Based_Eye_Tracking._AIS_2024_Challenge_Survey_CVPRW_2024_paper.pdf">3ET+ dataset</a>), this challenge offers participants the opportunity to contribute to cutting-edge solutions that push beyond current limitations. Top-1-ranking team will get a Meta Quest 3 as the prize (Sponsored by DVsense). 
-<!-- The competition is scheduled to begin on February 5, 2025, with submissions due by March 15, 2025, and results announced on April 20, 2025. 
---> 
-
 </div></p>
 
 <p><div style="text-align: justify">
   <a href="https://lab-ics.github.io/3et-2025.github.io/"><b>Eye-tracking Challenge website</b></a>
 </div></p>
-Challenge timeline:
+<b>Timeline</b>:
 <ul>
   <li>Challenge Start: February 15, 2025</li>
   <li>Challenge End: March 15, 2025</li>
@@ -100,7 +97,8 @@ Challenge timeline:
   <li>Top-ranking teams will be invited to write challenge report together, the deadline: April 5, 2025</li>
   <li>Paper review deadline: April 5, 2025 </li>
 </ul>
-Contact:
+
+<b>Contact</b>:
 <ul>
   <li><a href="https://sites.google.com/view/qinyu">Prof. Qinyu Chen</a> (q.chen [at] liacs [dot] leidenuniv [dot] nl)</li>
   <li><a href="https://www.tudemi.com/">Prof. Chang Gao</a> (chang.gao [at] tudelft [dot] nl)</li>
@@ -178,9 +176,37 @@ This challenge focuses on leveraging the high-temporal-resolution events from ev
 
 ---
 
-<!-- 
-### SLAM
--->
+### 4. Event-Based SLAM Challenge
+
+<b>Overview</b>:
+
+The goal of this challenge is to leverage the high temporal and spatial resolution of HD event cameras for SLAM and pose estimation applications.
+
+Please refer to the <a href="http://m3ed.io/slam_challenge/">challenge website</a> for more information about participation.
+
+Tracks:
+<ul>
+    <li><b>Event (+ IMU)</b>: if you obtain your pose using a single or a pair of event cameras, with or without IMU.</li>
+    <li><b>Event + Mono (+ IMU)</b>: if you obtain your pose using a single or a pair of event cameras fused with monocular global shutter cameras, with or without IMU.</li>
+</ul>
+
+<b>Timeline</b>:
+<ul>
+ <li><b>March 1, 2025</b>: Challenge opens for submissions</li>
+ <li><b>June 2, 2025</b>: Challenge ends</li>
+ <li><b>June 4, 2025</b>: Winners announced</li>
+ <li><b>June 8, 2025</b>: The top submissions should send their code for manual evaluation, report, and posters.</li>
+ <li><b>June 11-12, 2025</b>: Posters presented at the CVPR Workshop on Event-based vision.</li>
+ <li>After the workshop: The top submissions are invited to collaborate on a report for the challenge.</li>
+</ul>
+
+<b>Contact:</b>
+<ul>
+  <li><a href="https://fcladera.com/#about">Fernando Cladera</a> (fclad [at] seas.upenn.edu)</li>
+  <li><a href="https://www.grasp.upenn.edu/people/kenneth-chaney/">Dr. Kenneth Chaney</a> (chaneyk [at] seas.upenn.edu)</li>
+</ul>
+
+---
 
 ## Speakers
 <!-- ![imagen](/images/workshop_speakers.jpg) -->
