@@ -8,8 +8,8 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 
 ## Important Dates
 
-- **Paper submission deadline: March 12**, 2025 (23:59h PST).  **[Submission website (CMT)](https://cmt3.research.microsoft.com/EVENTVISION2025)**
-- **Demo abstract submission: March 12**, 2025 (23:59h PST)
+- **Paper submission deadline: ~March 12~ March 19**, 2025 (23:59h PST).  **[Submission website (CMT)](https://cmt3.research.microsoft.com/EVENTVISION2025)**
+- **Demo abstract submission: ~March 12~ March 19**, 2025 (23:59h PST)
 - Notification to authors: April 1, 2025.
 - Camera-ready paper: April 7, 2025 (as per CVPR website, deadline set by IEEE)
 - [Early-bird registration **April 30th** (23:59h ET)](https://cvpr.thecvf.com/Conferences/2025/Pricing2)
