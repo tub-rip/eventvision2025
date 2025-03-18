@@ -1,6 +1,6 @@
 ![imagen](images/CVPR2025_EVIS.png)
 
-**June 11th or 12th (TBD), 2025, CVPR**, Nashville (TN), USA.
+**June 12th, 2025, CVPR**, Nashville (TN), USA.
 <!-- Starts at **10 am [Eastern Time](https://time.is/ET)**;  4 pm [Europe Time](https://time.is/CET). -->  
 Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/) 2025.
 
@@ -14,7 +14,7 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 - Camera-ready paper: April 7, 2025 (as per CVPR website, deadline set by IEEE)
 - [Early-bird registration **April 30th** (23:59h ET)](https://cvpr.thecvf.com/Conferences/2025/Pricing2)
 - Standard registration begins May 1st.
-- <b>Workshop day: **June June 11th or 12th (TBD), 2025**. Full day workshop.</b>
+- <b>Workshop day: **June June 12th, 2025**. Full day workshop.</b>
 
 ![CVPRW 2023 edition photo by S. Shiba](/images/CVPRW2023_EventVision_group_picture.jpg)
 <!-- Many thanks to all who contributed and made this workshop possible! --> 
