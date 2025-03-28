@@ -167,7 +167,7 @@ This challenge focuses on leveraging the high-temporal-resolution events from ev
  <li><b>March 21, 2025</b>: Challenge ends: submission deadline to upload results on the final test data</li>
  <li><b>March 22, 2025</b>: Fact sheets and code/executable submission deadline</li>
  <li><b>March 24, 2025</b>: Preliminary test results release to the participants</li>
- <li><b>April 1st, 2025</b>: Paper submission deadline for entries from the challenge</li>
+ <li><b>March 29, 2025</b>: Paper submission deadline for entries from the challenge, as per the <a href="https://cvlai.net/ntire/2025/">NTIRE-W page</a> </li>
  <li><b>June 11-12, 2025</b>: Results presentation at CVPR 2025 Workshop NTIRE and/or Workshop on Event-based Vision (Poster)</li>
 </ul>
 
