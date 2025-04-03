@@ -1,6 +1,6 @@
 ![imagen](images/CVPR2025_EVIS.png)
 
-**June 12th, 2025, CVPR**, Nashville (TN), USA.
+**June 12th, 2025, CVPR** (Full day workshop), Nashville (TN), USA.
 <!-- Starts at **10 am [Eastern Time](https://time.is/ET)**;  4 pm [Europe Time](https://time.is/CET). -->  
 Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/) 2025.
 
@@ -17,7 +17,7 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 - Authors submit **camera-ready paper: April 14**, 2025 (as per CVPR website, firm deadline set by IEEE) using IEEE Computer Society's Conference Publishing Services ([CPS](https://ieeecps.org/cps/v2/auth/login))
 - [Early-bird registration **April 30th** (23:59h ET)](https://cvpr.thecvf.com/Conferences/2025/Pricing2)
 - Standard registration begins May 1st.
-- <b>Workshop day: **June June 12th, 2025**. Full day workshop.</b>
+- <b>Workshop day: **June 12th, 2025**. Full day workshop.</b>
 
 ![CVPRW 2023 edition photo by S. Shiba](/images/CVPRW2023_EventVision_group_picture.jpg)
 <!-- Many thanks to all who contributed and made this workshop possible! --> 
@@ -202,7 +202,7 @@ While current state-of-the-art devices like Apple's Vision Pro or Meta’s Aria 
  </li>
  <li><b>June 6, 2025</b>: Deadline for top teams to submit: Factsheets, Code and Challenge report.
  </li>
- <li><b>June 11-12, 2025</b>: Results presentation (Posters) at CVPR 2025 Workshop on Event-based Vision</li>
+ <li><b>June 12, 2025</b>: Results presentation (Posters) at CVPR 2025 Workshop on Event-based Vision</li>
 </ul>
 
 <b>Contact</b>:
@@ -234,7 +234,7 @@ This challenge focuses on leveraging the high-temporal-resolution events from ev
  <li><b>March 22, 2025</b>: Fact sheets and code/executable submission deadline</li>
  <li><b>March 24, 2025</b>: Preliminary test results release to the participants</li>
  <li><b>March 29, 2025</b>: Paper submission deadline for entries from the challenge, as per the <a href="https://cvlai.net/ntire/2025/">NTIRE-W page</a> </li>
- <li><b>June 11-12, 2025</b>: Results presentation at CVPR 2025 Workshop NTIRE and/or Workshop on Event-based Vision (Poster)</li>
+ <li><b>June 11-12, 2025</b>: Results presentation at CVPR 2025 Workshop NTIRE (June 11) and/or Workshop on Event-based Vision (June 12), as a poster.</li>
 </ul>
 
 <b>Contact</b>:
@@ -262,7 +262,7 @@ Tracks:
  <li><b>June 2, 2025</b>: Challenge ends</li>
  <li><b>June 4, 2025</b>: Winners announced</li>
  <li><b>June 8, 2025</b>: The top submissions should send their code for manual evaluation, report, and posters.</li>
- <li><b>June 11-12, 2025</b>: Posters presented at the CVPR Workshop on Event-based vision.</li>
+ <li><b>June 12, 2025</b>: Posters presented at the CVPR Workshop on Event-based vision.</li>
  <li>After the workshop: The top submissions are invited to collaborate on a report for the challenge.</li>
 </ul>
 
