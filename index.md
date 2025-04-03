@@ -12,9 +12,9 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 - **~~Demo abstract submission: March 19 (was March 12)~~**, 2025 (23:59h PST)
 - ~~Reviewers fill in review reports: March 28.~~
 - ~~Organizers notify authors: March 31st.~~
-- **Authors of accepted papers submit meta-data via Google form: March 31st**.
-- Authors receive instructions for camera-ready: by April 6th.
-- Authors submit **camera-ready paper: April 14**, 2025 (as per CVPR website, firm deadline set by IEEE)
+- ~~**Authors of accepted papers submit meta-data via Google form: March 31st**.~~
+- Authors receive instructions for camera-ready preparation: by April 6th.
+- Authors submit **camera-ready paper: April 14**, 2025 (as per CVPR website, firm deadline set by IEEE) using IEEE Computer Society's Conference Publishing Services ([CPS](https://ieeecps.org/cps/v2/auth/login))
 - [Early-bird registration **April 30th** (23:59h ET)](https://cvpr.thecvf.com/Conferences/2025/Pricing2)
 - Standard registration begins May 1st.
 - <b>Workshop day: **June June 12th, 2025**. Full day workshop.</b>
@@ -27,6 +27,21 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 
 ## <span style="color:tomato;">[Videos! YouTube Playlist](https://www.youtube.com/playlist?list=PLeXWz-g2If96iotpzgBNNTr9VA6hG-LLK)</span>
 -->
+
+## Invited Speakers
+<!-- ![imagen](/images/workshop_speakers.jpg) -->
+- [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) (University of Zurich, Switzerland)
+- [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/) (Max-Planck-Institut für Informatik, Germany), "Event-based Non-rigid 3D Reconstruction and Novel-View Synthesis"
+- [Priya Panda](https://seas.yale.edu/faculty-research/faculty-directory/priya-panda) (Yale University, USA)
+- [Daniel Cremers](https://www.professoren.tum.de/en/cremers-daniel) (TUM, Germany)
+- [Ziwei Wang](https://ziweiwwang.github.io/) (ANU, Australia)
+- [Christopher Metzler](https://www.cs.umd.edu/people/metzler) (University of Maryland, USA)
+- [Norimasa Kobori](https://www.linkedin.com/in/norimasa-kobori-39020311b/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=jp) and [Shintaro Shiba](http://shibashintaro.com/) (Woven by Toyota, Japan), "Communicate and Localize Anywhere in a City: An Industrial Use-case of
+Event-based Light Communication and Call for Participations".
+- [Scott McCloskey](https://www.kitware.com/scott-mccloskey/) (Kitware, USA)
+- [Davide Migliore](https://www.linkedin.com/in/davidemigliore/) (Tempo Sense, USA)
+- [SynSense - iniVation](https://inivation.com/), Switzerland.
+- [Prophesee](https://www.prophesee.ai/), France.
 
 ## Objectives
 
@@ -58,7 +73,6 @@ Space Models).
 
 A longer list of related topics is available in the table of content of the [List of Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)
 
-
 ## Call for Contributions
 
 ### Research papers
@@ -73,12 +87,61 @@ A longer list of related topics is available in the table of content of the [Lis
   
   - For <b>demo</b> abstract submission, authors are encouraged to submit an abstract of up to 2 pages using the same template as CVPR 2025 paper submissions.
 
+### List of accepted papers and live demos
+- Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view RGB and Event Streams
+- Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distance in Latent Space
+- E-VLC: A Real-World Dataset for Event-based Visible Light Communication And Localization
+- EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects
+- BiasBench: A reproducible benchmark for tuning the biases of event cameras
+- MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection
+- Looking into the Shadow: Recording a Total Solar Eclipse with High-resolution Event Cameras
+- Probabilistic Online Event Downsampling
+- Every Event Counts: Balancing Data Efficiency and Accuracy in Event Camera  Subsampling
+- Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection
+- Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone
+- Real-Time Pedestrian Detection at the Edge on a Fully Asynchronous Neuromorphic System
+- Reading Events Hierarchically to Reduce Latency
+- DELTA: Dense Depth from Events and LiDAR using Transformer’s Attention
+- Quadrocular, Neuromorphic Stereo Triangulation and Asynchronous Data Fusion for 3D Object Tracking
+- Nanoparticle Diameter Measurements With Event Camera Tracking
+- Egocentric Event-Based Vision for Ping Pong Ball Trajectory Prediction
+- Event-Driven Dynamic Attention for Multi-Object Tracking on Neuromorphic Hardware
+- Event-based Tracking and Imaging of Randomly Moving Objects in Dense Dynamical Scattering Media
+- Perturbed State Space Feature Encoders for Optical Flow with Event Cameras
+- Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow
+- Best Linear Unbiased Estimation for 2D and 3D Flow with Event-based Cameras
+- Iterative Event-based Motion Segmentation by Variational Contrast Maximization
+- EV-LayerSegNet: Self-supervised Motion Segmentation using Event Cameras
+- Seeing like a Cephalopod: Colour Vision with a Monochrome Event Camera
+- Event-based Continuous Color Video Decompression from Single Frames
+- Reading in the Dark with Foveated Event Vision
+- Human-Robot Navigation using Event-based Cameras and Reinforcement Learning
+- E-BARF: Bundle Adjusting Neural Radiance Fields from a Moving Event Camera
+- Event-based eye tracking. Even-based Vision Workshop 2025
+- BRAT: Bidirectional Relative Positional Attention Transformer for Event-based Eye tracking
+- Exploring Temporal Dynamics in Event-based Eye Tracker
+- Dual-Path Enhancements in Event-Based Eye Tracking: Augmented Robustness and Adaptive Temporal Modeling
+- Live Demonstration: AR Application Using Active Markers With An Event Camera
+- Live Demonstration: Point-Feature Tracking for Pixel Processor Arrays
+- Live Demonstration: NeuroTouch - A Neuromorphic Vision-based Tactile Sensor for Real-Time Gesture Recognition
+- Live Demonstration: Real-time event-data processing with Graph Convolutional Neural Networks and SoC FPGA
+ 
 ### Courtesy papers (in the poster session)
 <div style="text-align: justify">
   We also solicit contributions of <b>papers relevant to the workshop that are accepted</b> at the CVPR main conference or at other peer-reviewed conferences or journals.
   These contributions will be checked for suitability (soft review) and will not be published in the workshop proceedings.
   Papers should be submitted in single blind format (e.g., accepted version is fine), and should mention if and where the paper has been accepted / published. These contributions provide visibility to your work and help building a community around the topics of the workshop. 
   </div>
+
+### List of Courtesy papers
+- NTIRE 2025 Challenge on Event-Based Image Deblurring: Methods and Results
+- Graph Neural Network Combining Event Stream and Periodic Aggregation for Low-Latency Event-based Vision
+- Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation
+- Neuromorphic Facial Analysis with Cross-Modal Supervision
+- EMBA: Event-based Mosaicing Bundle Adjustment
+- ETAP: Event-based Tracking of Any Point
+- **There is still time to submit!**
+
 
 ## Competitions / Challenges
 
@@ -211,9 +274,6 @@ Tracks:
 
 ---
 
-## Speakers
-<!-- ![imagen](/images/workshop_speakers.jpg) -->
-
 ## Location
 - On site (Music City Center, Nashville TN): Room <b>TBD</b>
 <!-- - [Virtual: see CVPR virtual platform for zoom link](https://cvpr2023.thecvf.com/virtual/2023/workshop/18456) -->
@@ -240,7 +300,6 @@ Time (local) | Session
 <!-- ![organizers](images/workshop_organizers_60.jpg) -->
 
 - [Guillermo Gallego](http://www.guillermogallego.es), TU Berlin, Germany.
-<!-- - [Davide Scaramuzza](http://rpg.ifi.uzh.ch/people_scaramuzza.html), University of Zurich, Switzerland. -->
 - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas), University of Pennsylvania, USA.
 - [Cornelia Fermüller](http://users.umiacs.umd.edu/~fer), University of Maryland, USA.
 - [Daniele Perrone](https://scholar.google.ch/citations?user=BoIN3HkAAAAJ), [Prophesee](https://www.prophesee.ai/), France.
