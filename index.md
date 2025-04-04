@@ -39,7 +39,7 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 - [Norimasa Kobori](https://www.linkedin.com/in/norimasa-kobori-39020311b/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=jp) and [Shintaro Shiba](http://shibashintaro.com/) (Woven by Toyota, Japan)
 - [Scott McCloskey](https://www.kitware.com/scott-mccloskey/) (Kitware, USA)
 - [Davide Migliore](https://www.linkedin.com/in/davidemigliore/) (Tempo Sense, USA)
-- [SynSense - iniVation](https://inivation.com/), Switzerland.
+- [Kynan Eng](https://www.synsense.ai/) (SynSense Group, Switzerland)
 - [Prophesee](https://www.prophesee.ai/), France.
 
 ## Objectives
