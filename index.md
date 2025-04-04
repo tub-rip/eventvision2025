@@ -36,8 +36,7 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 - [Daniel Cremers](https://www.professoren.tum.de/en/cremers-daniel) (TUM, Germany)
 - [Ziwei Wang](https://ieeexplore.ieee.org/author/37089197011) (ANU, Australia)
 - [Christopher Metzler](https://www.cs.umd.edu/people/metzler) (University of Maryland, USA)
-- [Norimasa Kobori](https://www.linkedin.com/in/norimasa-kobori-39020311b/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=jp) and [Shintaro Shiba](http://shibashintaro.com/) (Woven by Toyota, Japan), "Communicate and Localize Anywhere in a City: An Industrial Use-case of
-Event-based Light Communication and Call for Participations".
+- [Norimasa Kobori](https://www.linkedin.com/in/norimasa-kobori-39020311b/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=jp) and [Shintaro Shiba](http://shibashintaro.com/) (Woven by Toyota, Japan)
 - [Scott McCloskey](https://www.kitware.com/scott-mccloskey/) (Kitware, USA)
 - [Davide Migliore](https://www.linkedin.com/in/davidemigliore/) (Tempo Sense, USA)
 - [SynSense - iniVation](https://inivation.com/), Switzerland.
