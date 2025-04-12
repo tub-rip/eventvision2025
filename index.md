@@ -13,7 +13,7 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 - ~~Reviewers fill in review reports: March 28.~~
 - ~~Organizers notify authors: March 31st.~~
 - ~~**Authors of accepted papers submit meta-data via Google form: March 31st**.~~
-- Authors receive instructions for camera-ready preparation: by April 6th.
+- ~~Authors receive instructions for camera-ready preparation: by April 6th.~~
 - Authors submit **camera-ready paper: April 14**, 2025 (as per CVPR website, firm deadline set by IEEE) using IEEE Computer Society's Conference Publishing Services ([CPS](https://ieeecps.org/cps/v2/auth/login))
 - [Early-bird registration **April 30th** (23:59h ET)](https://cvpr.thecvf.com/Conferences/2025/Pricing2)
 - Standard registration begins May 1st.
@@ -133,12 +133,13 @@ A longer list of related topics is available in the table of content of the [Lis
   </div>
 
 ### List of Courtesy papers
-- NTIRE 2025 Challenge on Event-Based Image Deblurring: Methods and Results
-- Graph Neural Network Combining Event Stream and Periodic Aggregation for Low-Latency Event-based Vision
-- Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation
-- Neuromorphic Facial Analysis with Cross-Modal Supervision
-- EMBA: Event-based Mosaicing Bundle Adjustment
-- ETAP: Event-based Tracking of Any Point
+- NTIRE 2025 Challenge on Event-Based Image Deblurring: Methods and Results, CVPRW 2025
+- Graph Neural Network Combining Event Stream and Periodic Aggregation for Low-Latency Event-based Vision, CVPR 2025.
+- [Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation](https://arxiv.org/abs/2412.07761), CVPR 2025.
+- [ETAP: Event-based Tracking of Any Point](https://github.com/tub-rip/ETAP), CVPR 2025.
+- [EBS-EKF: Accurate and High Frequency Event-based Star Tracking](https://arxiv.org/abs/2503.20101), CVPR 2025.
+- [EMBA: Event-based Mosaicing Bundle Adjustment](https://github.com/tub-rip/emba), ECCV 2024.
+- [Neuromorphic Facial Analysis with Cross-Modal Supervision](https://www.arxiv.org/abs/2409.10213), ECCVW 2024.
 - **There is still time to submit!**
 
 
