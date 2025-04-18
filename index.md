@@ -14,7 +14,7 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 - ~~Organizers notify authors: March 31st.~~
 - ~~**Authors of accepted papers submit meta-data via Google form: March 31st**.~~
 - ~~Authors receive instructions for camera-ready preparation: by April 6th.~~
-- Authors submit **camera-ready paper: April 14**, 2025 (as per CVPR website, firm deadline set by IEEE) using IEEE Computer Society's Conference Publishing Services ([CPS](https://ieeecps.org/cps/v2/auth/login))
+- ~~Authors submit **camera-ready paper: April 14**, 2025 (as per CVPR website, firm deadline set by IEEE) using IEEE Computer Society's Conference Publishing Services ([CPS](https://ieeecps.org/cps/v2/auth/login))~~
 - [Early-bird registration **April 30th** (23:59h ET)](https://cvpr.thecvf.com/Conferences/2025/Pricing2)
 - Standard registration begins May 1st.
 - <b>Workshop day: **June 12th, 2025**. Full day workshop.</b>
@@ -88,7 +88,7 @@ A longer list of related topics is available in the table of content of the [Lis
 
 ### List of accepted papers and live demos
 - Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view RGB and Event Streams
-- Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distance in Latent Space
+- [Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distances in Latent Space](https://arxiv.org/pdf/2504.12515)
 - E-VLC: A Real-World Dataset for Event-based Visible Light Communication And Localization
 - EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects
 - BiasBench: A reproducible benchmark for tuning the biases of event cameras
@@ -106,20 +106,20 @@ A longer list of related topics is available in the table of content of the [Lis
 - Egocentric Event-Based Vision for Ping Pong Ball Trajectory Prediction
 - Event-Driven Dynamic Attention for Multi-Object Tracking on Neuromorphic Hardware
 - Event-based Tracking and Imaging of Randomly Moving Objects in Dense Dynamical Scattering Media
-- Perturbed State Space Feature Encoders for Optical Flow with Event Cameras
+- [Perturbed State Space Feature Encoders for Optical Flow with Event Cameras](https://arxiv.org/pdf/2504.10669)
 - Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow
 - Best Linear Unbiased Estimation for 2D and 3D Flow with Event-based Cameras
 - Iterative Event-based Motion Segmentation by Variational Contrast Maximization
 - EV-LayerSegNet: Self-supervised Motion Segmentation using Event Cameras
-- Seeing like a Cephalopod: Colour Vision with a Monochrome Event Camera
-- Event-based Continuous Color Video Decompression from Single Frames
+- [Seeing like a Cephalopod: Colour Vision with a Monochrome Event Camera](https://arxiv.org/pdf/2504.10984)
+- [Event-based Continuous Color Video Decompression from Single Frames](https://www.cis.upenn.edu/~ziyunw/continuity_cam/)
 - Reading in the Dark with Foveated Event Vision
 - Human-Robot Navigation using Event-based Cameras and Reinforcement Learning
 - E-BARF: Bundle Adjusting Neural Radiance Fields from a Moving Event Camera
 - Event-based eye tracking. Even-based Vision Workshop 2025
 - BRAT: Bidirectional Relative Positional Attention Transformer for Event-based Eye tracking
-- Exploring Temporal Dynamics in Event-based Eye Tracker
-- Dual-Path Enhancements in Event-Based Eye Tracking: Augmented Robustness and Adaptive Temporal Modeling
+- [Exploring Temporal Dynamics in Event-based Eye Tracker](https://arxiv.org/pdf/2503.23725)
+- [Dual-Path Enhancements in Event-Based Eye Tracking: Augmented Robustness and Adaptive Temporal Modeling](https://arxiv.org/pdf/2504.09960)
 - Live Demonstration: AR Application Using Active Markers With An Event Camera
 - Live Demonstration: Point-Feature Tracking for Pixel Processor Arrays
 - Live Demonstration: NeuroTouch - A Neuromorphic Vision-based Tactile Sensor for Real-Time Gesture Recognition
@@ -133,13 +133,16 @@ A longer list of related topics is available in the table of content of the [Lis
   </div>
 
 ### List of Courtesy papers
-- NTIRE 2025 Challenge on Event-Based Image Deblurring: Methods and Results, CVPRW 2025
+- [NTIRE 2025 Challenge on Event-Based Image Deblurring: Methods and Results](https://www.arxiv.org/pdf/2504.12401), CVPRW 2025.
 - Graph Neural Network Combining Event Stream and Periodic Aggregation for Low-Latency Event-based Vision, CVPR 2025.
-- [Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation](https://arxiv.org/abs/2412.07761), CVPR 2025.
+- [Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation](https://arxiv.org/pdf/2412.07761), CVPR 2025.
 - [ETAP: Event-based Tracking of Any Point](https://github.com/tub-rip/ETAP), CVPR 2025.
-- [EBS-EKF: Accurate and High Frequency Event-based Star Tracking](https://arxiv.org/abs/2503.20101), CVPR 2025.
+- [EBS-EKF: Accurate and High Frequency Event-based Star Tracking](https://arxiv.org/pdf/2503.20101), CVPR 2025.
+- [Event fields: Capturing light fields at high speed, resolution, and dynamic range](https://arxiv.org/pdf/2412.06191), CVPR 2025.
 - [EMBA: Event-based Mosaicing Bundle Adjustment](https://github.com/tub-rip/emba), ECCV 2024.
-- [Neuromorphic Facial Analysis with Cross-Modal Supervision](https://www.arxiv.org/abs/2409.10213), ECCVW 2024.
+- [Neuromorphic Facial Analysis with Cross-Modal Supervision](https://www.arxiv.org/pdf/2409.10213), ECCVW 2024.
+- Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras, IEEE IV 2025.
+- Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras, IEEE IV 2025.
 - **There is still time to submit!**
 
 
