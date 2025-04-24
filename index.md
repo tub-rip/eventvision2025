@@ -31,12 +31,13 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 ## Invited Speakers
 <!-- ![imagen](/images/workshop_speakers.jpg) -->
 - [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) (University of Zurich, Switzerland)
-- [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/) (Max-Planck-Institut für Informatik, Germany), "Event-based Non-rigid 3D Reconstruction and Novel-View Synthesis"
+- [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/) (Max-Planck-Institut für Informatik, Germany) <!-- "Event-based Non-rigid 3D Reconstruction and Novel-View Synthesis" -->
 - [Priya Panda](https://seas.yale.edu/faculty-research/faculty-directory/priya-panda) (Yale University, USA)
-- [Daniel Cremers](https://www.professoren.tum.de/en/cremers-daniel) (TUM, Germany)
+- [Daniel Cremers](https://www.professoren.tum.de/en/cremers-daniel) (TU Munich, Germany)
 - [Ziwei Wang](https://ieeexplore.ieee.org/author/37089197011) (ANU, Australia)
 - [Christopher Metzler](https://www.cs.umd.edu/people/metzler) (University of Maryland, USA)
 - [Norimasa Kobori](https://www.linkedin.com/in/norimasa-kobori-39020311b/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=jp) and [Shintaro Shiba](http://shibashintaro.com/) (Woven by Toyota, Japan)
+- [Niklas Funk](https://niklasfunk.com/) (TU Darmstadt, Germany)
 - [Scott McCloskey](https://www.kitware.com/scott-mccloskey/) (Kitware, USA)
 - [Davide Migliore](https://www.linkedin.com/in/davidemigliore/) (Tempo Sense, USA)
 - [Kynan Eng](https://www.synsense.ai/) (SynSense Group, Switzerland)
