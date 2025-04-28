@@ -88,7 +88,7 @@ A longer list of related topics is available in the table of content of the [Lis
   - For <b>demo</b> abstract submission, authors are encouraged to submit an abstract of up to 2 pages using the same template as CVPR 2025 paper submissions.
 
 ### List of accepted papers and live demos
-- Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view RGB and Event Streams
+- [Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view RGB and Event Streams](https://arxiv.org/pdf/2412.06770)
 - [Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distances in Latent Space](https://arxiv.org/pdf/2504.12515)
 - [E-VLC: A Real-World Dataset for Event-based Visible Light Communication And Localization](https://arxiv.org/pdf/2504.18521)
 - EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects
