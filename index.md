@@ -90,9 +90,9 @@ A longer list of related topics is available in the table of content of the [Lis
 ### List of accepted papers and live demos
 - Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view RGB and Event Streams
 - [Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distances in Latent Space](https://arxiv.org/pdf/2504.12515)
-- E-VLC: A Real-World Dataset for Event-based Visible Light Communication And Localization
+- [E-VLC: A Real-World Dataset for Event-based Visible Light Communication And Localization](https://arxiv.org/pdf/2504.18521)
 - EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects
-- BiasBench: A reproducible benchmark for tuning the biases of event cameras
+- [BiasBench: A reproducible benchmark for tuning the biases of event cameras](https://arxiv.org/pdf/2504.18235)
 - MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection
 - Looking into the Shadow: Recording a Total Solar Eclipse with High-resolution Event Cameras
 - Probabilistic Online Event Downsampling
@@ -110,14 +110,14 @@ A longer list of related topics is available in the table of content of the [Lis
 - [Perturbed State Space Feature Encoders for Optical Flow with Event Cameras](https://arxiv.org/pdf/2504.10669)
 - Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow
 - Best Linear Unbiased Estimation for 2D and 3D Flow with Event-based Cameras
-- Iterative Event-based Motion Segmentation by Variational Contrast Maximization
+- [Iterative Event-based Motion Segmentation by Variational Contrast Maximization](https://arxiv.org/pdf/2504.18447)
 - EV-LayerSegNet: Self-supervised Motion Segmentation using Event Cameras
 - [Seeing like a Cephalopod: Colour Vision with a Monochrome Event Camera](https://arxiv.org/pdf/2504.10984)
-- [Event-based Continuous Color Video Decompression from Single Frames](https://www.cis.upenn.edu/~ziyunw/continuity_cam/)
+- [Event-based Continuous Color Video Decompression from Single Frames](https://arxiv.org/pdf/2312.00113)
 - Reading in the Dark with Foveated Event Vision
 - Human-Robot Navigation using Event-based Cameras and Reinforcement Learning
 - E-BARF: Bundle Adjusting Neural Radiance Fields from a Moving Event Camera
-- Event-based eye tracking. Even-based Vision Workshop 2025
+- [Event-based eye tracking. Even-based Vision Workshop 2025](https://arxiv.org/pdf/2504.18249)
 - BRAT: Bidirectional Relative Positional Attention Transformer for Event-based Eye tracking
 - [Exploring Temporal Dynamics in Event-based Eye Tracker](https://arxiv.org/pdf/2503.23725)
 - [Dual-Path Enhancements in Event-Based Eye Tracking: Augmented Robustness and Adaptive Temporal Modeling](https://arxiv.org/pdf/2504.09960)
@@ -140,6 +140,7 @@ A longer list of related topics is available in the table of content of the [Lis
 - [ETAP: Event-based Tracking of Any Point](https://github.com/tub-rip/ETAP), CVPR 2025.
 - [EBS-EKF: Accurate and High Frequency Event-based Star Tracking](https://arxiv.org/pdf/2503.20101), CVPR 2025.
 - [Event fields: Capturing light fields at high speed, resolution, and dynamic range](https://arxiv.org/pdf/2412.06191), CVPR 2025.
+- [On-Device Self-Supervised Learning of Low-Latency Monocular Depth from Only Events](https://arxiv.org/pdf/2412.06359), CVPR 2025.
 - [EMBA: Event-based Mosaicing Bundle Adjustment](https://github.com/tub-rip/emba), ECCV 2024.
 - [Neuromorphic Facial Analysis with Cross-Modal Supervision](https://www.arxiv.org/pdf/2409.10213), ECCVW 2024.
 - Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras, IEEE IV 2025.
