@@ -15,8 +15,8 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 - ~~**Authors of accepted papers submit meta-data via Google form: March 31st**.~~
 - ~~Authors receive instructions for camera-ready preparation: by April 6th.~~
 - ~~Authors submit **camera-ready paper: April 14**, 2025 (as per CVPR website, firm deadline set by IEEE) using IEEE Computer Society's Conference Publishing Services ([CPS](https://ieeecps.org/cps/v2/auth/login))~~
-- [Early-bird registration **April 30th** (23:59h ET)](https://cvpr.thecvf.com/Conferences/2025/Pricing2)
-- Standard registration begins May 1st.
+- ~~Early-bird registration **April 30th**~~
+- [Register for the Workshop / Conference](https://cvpr.thecvf.com/Conferences/2025/Pricing2).
 - <b>Workshop day: **June 12th, 2025**. Full day workshop.</b>
 
 ![CVPRW 2023 edition photo by S. Shiba](/images/CVPRW2023_EventVision_group_picture.jpg)
