@@ -101,7 +101,7 @@ A longer list of related topics is available in the table of content of the [Lis
 - Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone
 - Real-Time Pedestrian Detection at the Edge on a Fully Asynchronous Neuromorphic System
 - Reading Events Hierarchically to Reduce Latency
-- DELTA: Dense Depth from Events and LiDAR using Transformer’s Attention
+- [DELTA: Dense Depth from Events and LiDAR using Transformer’s Attention](https://arxiv.org/pdf/2505.02593)
 - Quadrocular, Neuromorphic Stereo Triangulation and Asynchronous Data Fusion for 3D Object Tracking
 - Nanoparticle Diameter Measurements With Event Camera Tracking
 - Egocentric Event-Based Vision for Ping Pong Ball Trajectory Prediction
