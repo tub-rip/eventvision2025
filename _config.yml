@@ -26,6 +26,6 @@ defaults:
       path: ""
     values:
       image:
-        path: /images/CVPR2025_EVIS.png
-        height: 238
-        width: 980
+        path: /images/2025_CVPRW_speakers_and_organizers.jpg
+        height: 1073
+        width: 900
