@@ -6,20 +6,7 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 
 <b>Welcome to the 5th International Workshop on Event-Based Vision!</b>  
 
-## Important Dates
-
-- **~~Paper submission deadline: March 19 (was March 12)~~**, 2025 (23:59h PST).  **[Submission website (CMT)](https://cmt3.research.microsoft.com/EVENTVISION2025)**
-- **~~Demo abstract submission: March 19 (was March 12)~~**, 2025 (23:59h PST)
-- ~~Reviewers fill in review reports: March 28.~~
-- ~~Organizers notify authors: March 31st.~~
-- ~~**Authors of accepted papers submit meta-data via Google form: March 31st**.~~
-- ~~Authors receive instructions for camera-ready preparation: by April 6th.~~
-- ~~Authors submit **camera-ready paper: April 14**, 2025 (as per CVPR website, firm deadline set by IEEE) using IEEE Computer Society's Conference Publishing Services ([CPS](https://ieeecps.org/cps/v2/auth/login))~~
-- ~~Early-bird registration **April 30th**~~
-- [Register for the Workshop / Conference](https://cvpr.thecvf.com/Conferences/2025/Pricing2).
-- <b>Workshop day: **June 12th, 2025**. Full day workshop.</b>
-
-![CVPRW 2023 edition photo by S. Shiba](/images/CVPRW2023_EventVision_group_picture.jpg)
+<!-- ![CVPRW 2023 edition photo by S. Shiba](/images/CVPRW2023_EventVision_group_picture.jpg) -->
 <!-- Many thanks to all who contributed and made this workshop possible! --> 
 
 <!--
@@ -29,7 +16,7 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 -->
 
 ## Invited Speakers
-<!-- ![imagen](/images/workshop_speakers.jpg) -->
+![workshop speakers and organizers](/images/2025_CVPRW_speakers_and_organizers.jpg)
 - [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) (University of Zurich, Switzerland)
 - [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/) (Max-Planck-Institut für Informatik, Germany) <!-- "Event-based Non-rigid 3D Reconstruction and Novel-View Synthesis" -->
 - [Priya Panda](https://seas.yale.edu/faculty-research/faculty-directory/priya-panda) (Yale University, USA)
@@ -309,6 +296,19 @@ Time (local) | Session
 - [Cornelia Fermüller](http://users.umiacs.umd.edu/~fer), University of Maryland, USA.
 - [Daniele Perrone](https://scholar.google.ch/citations?user=BoIN3HkAAAAJ), [Prophesee](https://www.prophesee.ai/), France.
 - [Davide Migliore](https://www.linkedin.com/in/davidemigliore), Tempo Sense, USA.
+
+## Important Dates
+
+- **~~Paper submission deadline: March 19 (was March 12)~~**, 2025 (23:59h PST).  **[Submission website (CMT)](https://cmt3.research.microsoft.com/EVENTVISION2025)**
+- **~~Demo abstract submission: March 19 (was March 12)~~**, 2025 (23:59h PST)
+- ~~Reviewers fill in review reports: March 28.~~
+- ~~Organizers notify authors: March 31st.~~
+- ~~**Authors of accepted papers submit meta-data via Google form: March 31st**.~~
+- ~~Authors receive instructions for camera-ready preparation: by April 6th.~~
+- ~~Authors submit **camera-ready paper: April 14**, 2025 (as per CVPR website, firm deadline set by IEEE) using IEEE Computer Society's Conference Publishing Services ([CPS](https://ieeecps.org/cps/v2/auth/login))~~
+- ~~Early-bird registration **April 30th**~~
+- [Register for the Workshop / Conference](https://cvpr.thecvf.com/Conferences/2025/Pricing2).
+- <b>Workshop day: **June 12th, 2025**. Full day workshop.</b>
 
 ## FAQs
 <ul>
