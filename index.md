@@ -80,7 +80,7 @@ A longer list of related topics is available in the table of content of the [Lis
 - [E-VLC: A Real-World Dataset for Event-based Visible Light Communication And Localization](https://arxiv.org/pdf/2504.18521)
 - EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects
 - [BiasBench: A reproducible benchmark for tuning the biases of event cameras](https://arxiv.org/pdf/2504.18235)
-- MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection
+- [MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection](https://arxiv.org/pdf/2505.11282)
 - Looking into the Shadow: Recording a Total Solar Eclipse with High-resolution Event Cameras
 - Probabilistic Online Event Downsampling
 - Every Event Counts: Balancing Data Efficiency and Accuracy in Event Camera  Subsampling
@@ -131,7 +131,7 @@ A longer list of related topics is available in the table of content of the [Lis
 - [EMBA: Event-based Mosaicing Bundle Adjustment](https://github.com/tub-rip/emba), ECCV 2024.
 - [Neuromorphic Facial Analysis with Cross-Modal Supervision](https://www.arxiv.org/pdf/2409.10213), ECCVW 2024.
 - Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras, IEEE IV 2025.
-- Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras, IEEE IV 2025.
+- [Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras](https://arxiv.org/pdf/2505.15412), IEEE IV 2025.
 - **There is still time to submit!**
 
 
