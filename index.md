@@ -1,7 +1,7 @@
 ![imagen](images/CVPR2025_EVIS.png)
 
 **June 12th, 2025, CVPR** (Full day workshop), Nashville (TN), USA.
-<!-- Starts at **10 am [Eastern Time](https://time.is/ET)**;  4 pm [Europe Time](https://time.is/CET). -->  
+<!-- Starts at **8 am [Eastern Time](https://time.is/ET)**;  6 pm [Europe Time](https://time.is/CET). -->  
 Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/) 2025.
 
 <b>Welcome to the 5th International Workshop on Event-Based Vision!</b>  
@@ -15,6 +15,12 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 ## <span style="color:tomato;">[Videos! YouTube Playlist](https://www.youtube.com/playlist?list=PLeXWz-g2If96iotpzgBNNTr9VA6hG-LLK)</span>
 -->
 
+### <span style="color:tomato;">It starts at 8 am [Eastern Time](https://time.is/ET)</span>
+
+### Location: 4th level, Grand Ballroom C2
+<img src="./images/location_grand_C2.png" alt="Room: Grand Ballroom C2" width="450"/>
+<!-- ![Room: Grand Ballroom C2](/images/location_grand_C2.png) -->
+
 ## Invited Speakers
 ![workshop speakers and organizers](/images/2025_CVPRW_speakers_and_organizers.jpg)
 - [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) (University of Zurich, Switzerland)
@@ -26,6 +32,7 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 - [Norimasa Kobori](https://www.linkedin.com/in/norimasa-kobori-39020311b/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=jp) and [Shintaro Shiba](http://shibashintaro.com/) (Woven by Toyota, Japan)
 - [Niklas Funk](https://niklasfunk.com/) (TU Darmstadt, Germany)
 - [Scott McCloskey](https://www.kitware.com/scott-mccloskey/) (Kitware, USA)
+- [Hussain Sajwani](https://www.linkedin.com/in/hussain-sajwani-1709a6196/?originalSubdomain=ae) (Khalifa University, UAE)
 - [Davide Migliore](https://www.linkedin.com/in/davidemigliore/) (Tempo Sense, USA)
 - [Kynan Eng](https://www.synsense.ai/) (SynSense Group, Switzerland)
 - [Prophesee](https://www.prophesee.ai/), France.
