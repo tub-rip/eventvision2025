@@ -137,6 +137,7 @@ A longer list of related topics is available in the table of content of the [Lis
 - [On-Device Self-Supervised Learning of Low-Latency Monocular Depth from Only Events](https://arxiv.org/pdf/2412.06359), CVPR 2025.
 - [Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow](https://arxiv.org/pdf/2503.06992), CVPR 2025.
 - [Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras](https://arxiv.org/pdf/2502.19630), CVPR 2025.
+- [TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion](https://arxiv.org/pdf/2505.03116), CVPR 2025.
 - [EMBA: Event-based Mosaicing Bundle Adjustment](https://github.com/tub-rip/emba), ECCV 2024.
 - [Neuromorphic Facial Analysis with Cross-Modal Supervision](https://www.arxiv.org/pdf/2409.10213), ECCVW 2024.
 - [Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras](https://arxiv.org/pdf/2505.17582), IEEE IV 2025.
