@@ -317,7 +317,7 @@ Time (local) | Session
 - ~~Authors submit **camera-ready paper: April 14**, 2025 (as per CVPR website, firm deadline set by IEEE) using IEEE Computer Society's Conference Publishing Services ([CPS](https://ieeecps.org/cps/v2/auth/login))~~
 - ~~Early-bird registration **April 30th**~~
 - [Register for the Workshop / Conference](https://cvpr.thecvf.com/Conferences/2025/Pricing2).
-- <b>Workshop day: **June 12th, 2025**. Full day workshop.</b>
+- <b>Workshop day: **June 12th, 2025**. Full day workshop, start at 8 am.</b>
 
 ## FAQs
 <ul>
