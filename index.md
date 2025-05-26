@@ -139,7 +139,7 @@ A longer list of related topics is available in the table of content of the [Lis
 - [Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras](https://arxiv.org/pdf/2502.19630), CVPR 2025.
 - [EMBA: Event-based Mosaicing Bundle Adjustment](https://github.com/tub-rip/emba), ECCV 2024.
 - [Neuromorphic Facial Analysis with Cross-Modal Supervision](https://www.arxiv.org/pdf/2409.10213), ECCVW 2024.
-- Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras, IEEE IV 2025.
+- [Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras](https://arxiv.org/pdf/2505.17582), IEEE IV 2025.
 - [Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras](https://arxiv.org/pdf/2505.15412), IEEE IV 2025.
 - **There is still time to submit!**
 
