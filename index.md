@@ -90,7 +90,7 @@ A longer list of related topics is available in the table of content of the [Lis
 - [MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection](https://arxiv.org/pdf/2505.11282)
 - Looking into the Shadow: Recording a Total Solar Eclipse with High-resolution Event Cameras
 - Probabilistic Online Event Downsampling
-- Every Event Counts: Balancing Data Efficiency and Accuracy in Event Camera  Subsampling
+- [Every Event Counts: Balancing Data Efficiency and Accuracy in Event Camera  Subsampling](https://arxiv.org/pdf/2505.21187)
 - Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection
 - Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone
 - Real-Time Pedestrian Detection at the Edge on a Fully Asynchronous Neuromorphic System
