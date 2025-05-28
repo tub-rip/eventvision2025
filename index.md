@@ -82,43 +82,43 @@ A longer list of related topics is available in the table of content of the [Lis
   - For <b>demo</b> abstract submission, authors are encouraged to submit an abstract of up to 2 pages using the same template as CVPR 2025 paper submissions.
 
 ### List of accepted papers and live demos
-- [Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view RGB and Event Streams](https://arxiv.org/pdf/2412.06770)
-- [Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distances in Latent Space](https://arxiv.org/pdf/2504.12515)
-- [E-VLC: A Real-World Dataset for Event-based Visible Light Communication And Localization](https://arxiv.org/pdf/2504.18521)
-- EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects
-- [BiasBench: A reproducible benchmark for tuning the biases of event cameras](https://arxiv.org/pdf/2504.18235)
-- [MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection](https://arxiv.org/pdf/2505.11282)
-- Looking into the Shadow: Recording a Total Solar Eclipse with High-resolution Event Cameras
-- Probabilistic Online Event Downsampling
-- [Every Event Counts: Balancing Data Efficiency and Accuracy in Event Camera  Subsampling](https://arxiv.org/pdf/2505.21187)
-- Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection
-- Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone
-- Real-Time Pedestrian Detection at the Edge on a Fully Asynchronous Neuromorphic System
-- Reading Events Hierarchically to Reduce Latency
-- [DELTA: Dense Depth from Events and LiDAR using Transformer’s Attention](https://arxiv.org/pdf/2505.02593)
-- Quadrocular, Neuromorphic Stereo Triangulation and Asynchronous Data Fusion for 3D Object Tracking
-- Nanoparticle Diameter Measurements With Event Camera Tracking
-- Egocentric Event-Based Vision for Ping Pong Ball Trajectory Prediction
-- Event-Driven Dynamic Attention for Multi-Object Tracking on Neuromorphic Hardware
-- Event-based Tracking and Imaging of Randomly Moving Objects in Dense Dynamical Scattering Media
-- [Perturbed State Space Feature Encoders for Optical Flow with Event Cameras](https://arxiv.org/pdf/2504.10669)
-- Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow
-- Best Linear Unbiased Estimation for 2D and 3D Flow with Event-based Cameras
-- [Iterative Event-based Motion Segmentation by Variational Contrast Maximization](https://arxiv.org/pdf/2504.18447)
-- EV-LayerSegNet: Self-supervised Motion Segmentation using Event Cameras
-- [Seeing like a Cephalopod: Colour Vision with a Monochrome Event Camera](https://arxiv.org/pdf/2504.10984)
-- [Event-based Continuous Color Video Decompression from Single Frames](https://arxiv.org/pdf/2312.00113)
-- Reading in the Dark with Foveated Event Vision
-- Human-Robot Navigation using Event-based Cameras and Reinforcement Learning
-- E-BARF: Bundle Adjusting Neural Radiance Fields from a Moving Event Camera
-- [Event-based eye tracking. Even-based Vision Workshop 2025](https://arxiv.org/pdf/2504.18249)
-- BRAT: Bidirectional Relative Positional Attention Transformer for Event-based Eye tracking
-- [Exploring Temporal Dynamics in Event-based Eye Tracker](https://arxiv.org/pdf/2503.23725)
-- [Dual-Path Enhancements in Event-Based Eye Tracking: Augmented Robustness and Adaptive Temporal Modeling](https://arxiv.org/pdf/2504.09960)
-- Live Demonstration: AR Application Using Active Markers With An Event Camera
-- Live Demonstration: Point-Feature Tracking for Pixel Processor Arrays
-- Live Demonstration: NeuroTouch - A Neuromorphic Vision-based Tactile Sensor for Real-Time Gesture Recognition
-- Live Demonstration: Real-time event-data processing with Graph Convolutional Neural Networks and SoC FPGA
+1. [Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view RGB and Event Streams](https://arxiv.org/pdf/2412.06770)
+2. [Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distances in Latent Space](https://arxiv.org/pdf/2504.12515)
+3. [E-VLC: A Real-World Dataset for Event-based Visible Light Communication And Localization](https://arxiv.org/pdf/2504.18521)
+4. EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects
+5. [BiasBench: A reproducible benchmark for tuning the biases of event cameras](https://arxiv.org/pdf/2504.18235)
+6. [MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection](https://arxiv.org/pdf/2505.11282)
+7. Looking into the Shadow: Recording a Total Solar Eclipse with High-resolution Event Cameras
+8. Probabilistic Online Event Downsampling
+9. [Every Event Counts: Balancing Data Efficiency and Accuracy in Event Camera  Subsampling](https://arxiv.org/pdf/2505.21187)
+10. Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection
+11. Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone
+12. Real-Time Pedestrian Detection at the Edge on a Fully Asynchronous Neuromorphic System
+13. Reading Events Hierarchically to Reduce Latency
+14. [DELTA: Dense Depth from Events and LiDAR using Transformer’s Attention](https://arxiv.org/pdf/2505.02593)
+15. Quadrocular, Neuromorphic Stereo Triangulation and Asynchronous Data Fusion for 3D Object Tracking
+16. Nanoparticle Diameter Measurements With Event Camera Tracking
+17. Egocentric Event-Based Vision for Ping Pong Ball Trajectory Prediction
+18. Event-Driven Dynamic Attention for Multi-Object Tracking on Neuromorphic Hardware
+19. Event-based Tracking and Imaging of Randomly Moving Objects in Dense Dynamical Scattering Media
+20. [Perturbed State Space Feature Encoders for Optical Flow with Event Cameras](https://arxiv.org/pdf/2504.10669)
+21. Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow
+22. Best Linear Unbiased Estimation for 2D and 3D Flow with Event-based Cameras
+23. [Iterative Event-based Motion Segmentation by Variational Contrast Maximization](https://arxiv.org/pdf/2504.18447)
+24. EV-LayerSegNet: Self-supervised Motion Segmentation using Event Cameras
+25. [Seeing like a Cephalopod: Colour Vision with a Monochrome Event Camera](https://arxiv.org/pdf/2504.10984)
+26. [Event-based Continuous Color Video Decompression from Single Frames](https://arxiv.org/pdf/2312.00113)
+27. Reading in the Dark with Foveated Event Vision
+28. Human-Robot Navigation using Event-based Cameras and Reinforcement Learning
+29. E-BARF: Bundle Adjusting Neural Radiance Fields from a Moving Event Camera
+30. [Event-based eye tracking. Even-based Vision Workshop 2025](https://arxiv.org/pdf/2504.18249)
+31. BRAT: Bidirectional Relative Positional Attention Transformer for Event-based Eye tracking
+32. [Exploring Temporal Dynamics in Event-based Eye Tracker](https://arxiv.org/pdf/2503.23725)
+33. [Dual-Path Enhancements in Event-Based Eye Tracking: Augmented Robustness and Adaptive Temporal Modeling](https://arxiv.org/pdf/2504.09960)
+34. Live Demonstration: AR Application Using Active Markers With An Event Camera
+35. Live Demonstration: Point-Feature Tracking for Pixel Processor Arrays
+36. Live Demonstration: NeuroTouch - A Neuromorphic Vision-based Tactile Sensor for Real-Time Gesture Recognition
+37. Live Demonstration: Real-time event-data processing with Graph Convolutional Neural Networks and SoC FPGA
  
 ### Courtesy papers (in the poster session)
 <div style="text-align: justify">
@@ -128,21 +128,22 @@ A longer list of related topics is available in the table of content of the [Lis
   </div>
 
 ### List of Courtesy papers
-- [NTIRE 2025 Challenge on Event-Based Image Deblurring: Methods and Results](https://www.arxiv.org/pdf/2504.12401), CVPRW 2025.
-- Graph Neural Network Combining Event Stream and Periodic Aggregation for Low-Latency Event-based Vision, CVPR 2025.
-- [Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation](https://arxiv.org/pdf/2412.07761), CVPR 2025.
-- [ETAP: Event-based Tracking of Any Point](https://github.com/tub-rip/ETAP), CVPR 2025.
-- [EBS-EKF: Accurate and High Frequency Event-based Star Tracking](https://arxiv.org/pdf/2503.20101), CVPR 2025.
-- [Event fields: Capturing light fields at high speed, resolution, and dynamic range](https://arxiv.org/pdf/2412.06191), CVPR 2025.
-- [On-Device Self-Supervised Learning of Low-Latency Monocular Depth from Only Events](https://arxiv.org/pdf/2412.06359), CVPR 2025.
-- [Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow](https://arxiv.org/pdf/2503.06992), CVPR 2025.
-- [Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras](https://arxiv.org/pdf/2502.19630), CVPR 2025.
-- [TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion](https://arxiv.org/pdf/2505.03116), CVPR 2025.
-- [EMBA: Event-based Mosaicing Bundle Adjustment](https://github.com/tub-rip/emba), ECCV 2024.
-- [Neuromorphic Facial Analysis with Cross-Modal Supervision](https://www.arxiv.org/pdf/2409.10213), ECCVW 2024.
-- [Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras](https://arxiv.org/pdf/2505.17582), IEEE IV 2025.
-- [Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras](https://arxiv.org/pdf/2505.15412), IEEE IV 2025.
-- **There is still time to submit!**
+1. [NTIRE 2025 Challenge on Event-Based Image Deblurring: Methods and Results](https://www.arxiv.org/pdf/2504.12401), CVPRW 2025.
+2. Graph Neural Network Combining Event Stream and Periodic Aggregation for Low-Latency Event-based Vision, CVPR 2025.
+3. [Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation](https://arxiv.org/pdf/2412.07761), CVPR 2025.
+4. [ETAP: Event-based Tracking of Any Point](https://github.com/tub-rip/ETAP), CVPR 2025.
+5. [EBS-EKF: Accurate and High Frequency Event-based Star Tracking](https://arxiv.org/pdf/2503.20101), CVPR 2025.
+6. [Event fields: Capturing light fields at high speed, resolution, and dynamic range](https://arxiv.org/pdf/2412.06191), CVPR 2025.
+7. [On-Device Self-Supervised Learning of Low-Latency Monocular Depth from Only Events](https://arxiv.org/pdf/2412.06359), CVPR 2025.
+8. [Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow](https://arxiv.org/pdf/2503.06992), CVPR 2025.
+9. [Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras](https://arxiv.org/pdf/2502.19630), CVPR 2025.
+10. [TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion](https://arxiv.org/pdf/2505.03116), CVPR 2025.
+11. [EventFly: Event Camera Perception from Ground to the Sky](https://arxiv.org/pdf/2503.19916), CVPR 2025.
+12. [EMBA: Event-based Mosaicing Bundle Adjustment](https://github.com/tub-rip/emba), ECCV 2024.
+13. [Neuromorphic Facial Analysis with Cross-Modal Supervision](https://www.arxiv.org/pdf/2409.10213), ECCVW 2024.
+14. [Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras](https://arxiv.org/pdf/2505.17582), IEEE IV 2025.
+15. [Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras](https://arxiv.org/pdf/2505.15412), IEEE IV 2025.
+16. **There is still time to submit!**
 
 
 ## Competitions / Challenges
