@@ -141,13 +141,14 @@ A longer list of related topics is available in the table of content of the [Lis
 11. [EventFly: Event Camera Perception from Ground to the Sky](https://arxiv.org/pdf/2503.19916), CVPR 2025.
 12. [DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting](https://arxiv.org/pdf/2503.24210), CVPR 2025.
 13. [Event Ellipsometer: Event-based Mueller-Matrix Video Imaging](https://arxiv.org/pdf/2411.17313), CVPR 2025.
-14. [IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera](https://arxiv.org/pdf/2410.08107), CVPR 2025
-15. [EMBA: Event-based Mosaicing Bundle Adjustment](https://github.com/tub-rip/emba), ECCV 2024.
-16. [Neuromorphic Facial Analysis with Cross-Modal Supervision](https://www.arxiv.org/pdf/2409.10213), ECCVW 2024.
-17. [Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras](https://arxiv.org/pdf/2505.17582), IEEE IV 2025.
-18. [Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras](https://arxiv.org/pdf/2505.15412), IEEE IV 2025.
-19. [Neural Inertial Odometry from Lie Events](https://roboticsconference.org/program/papers/143/), RSS 2025.
-20. **There is still time to submit!**
+14. [IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera](https://arxiv.org/pdf/2410.08107), CVPR 2025.
+15. [PS-EIP: Robust Photometric Stereo Based on Event Interval Profile](https://arxiv.org/pdf/2503.18341), CVPR 2025.
+16. [EMBA: Event-based Mosaicing Bundle Adjustment](https://github.com/tub-rip/emba), ECCV 2024.
+17. [Neuromorphic Facial Analysis with Cross-Modal Supervision](https://www.arxiv.org/pdf/2409.10213), ECCVW 2024.
+18. [Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras](https://arxiv.org/pdf/2505.17582), IEEE IV 2025.
+19. [Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras](https://arxiv.org/pdf/2505.15412), IEEE IV 2025.
+20. [Neural Inertial Odometry from Lie Events](https://roboticsconference.org/program/papers/143/), RSS 2025.
+21. **There is still time to submit!**
 
 
 ## Competitions / Challenges
