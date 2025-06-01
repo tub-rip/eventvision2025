@@ -143,12 +143,13 @@ A longer list of related topics is available in the table of content of the [Lis
 13. [Event Ellipsometer: Event-based Mueller-Matrix Video Imaging](https://arxiv.org/pdf/2411.17313), CVPR 2025.
 14. [IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera](https://arxiv.org/pdf/2410.08107), CVPR 2025.
 15. [PS-EIP: Robust Photometric Stereo Based on Event Interval Profile](https://arxiv.org/pdf/2503.18341), CVPR 2025.
-16. [EMBA: Event-based Mosaicing Bundle Adjustment](https://github.com/tub-rip/emba), ECCV 2024.
-17. [Neuromorphic Facial Analysis with Cross-Modal Supervision](https://www.arxiv.org/pdf/2409.10213), ECCVW 2024.
-18. [Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras](https://arxiv.org/pdf/2505.17582), IEEE IV 2025.
-19. [Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras](https://arxiv.org/pdf/2505.15412), IEEE IV 2025.
-20. [Neural Inertial Odometry from Lie Events](https://roboticsconference.org/program/papers/143/), RSS 2025.
-21. **There is still time to submit!**
+16. [Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial and Temporal Attention](https://arxiv.org/pdf/2403.10173v3), CVPR 2025.
+17. [EMBA: Event-based Mosaicing Bundle Adjustment](https://github.com/tub-rip/emba), ECCV 2024.
+18. [Neuromorphic Facial Analysis with Cross-Modal Supervision](https://www.arxiv.org/pdf/2409.10213), ECCVW 2024.
+19. [Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras](https://arxiv.org/pdf/2505.17582), IEEE IV 2025.
+20. [Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras](https://arxiv.org/pdf/2505.15412), IEEE IV 2025.
+21. [Neural Inertial Odometry from Lie Events](https://roboticsconference.org/program/papers/143/), RSS 2025.
+22. **There is still time to submit!**
 
 
 ## Competitions / Challenges
