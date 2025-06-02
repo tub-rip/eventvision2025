@@ -15,7 +15,7 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 ## <span style="color:tomato;">[Videos! YouTube Playlist](https://www.youtube.com/playlist?list=PLeXWz-g2If96iotpzgBNNTr9VA6hG-LLK)</span>
 -->
 
-### <span style="color:tomato;">It starts at 8 am [Eastern Time](https://time.is/ET)</span>
+### <span style="color:tomato;">It starts at 8 am [Local Time](https://time.is/Nashville)</span>
 
 ### Location: 4th level, Grand Ballroom C2
 <img src="./images/location_grand_C2.png" alt="Room: Grand Ballroom C2" width="450"/>
@@ -157,7 +157,7 @@ A longer list of related topics is available in the table of content of the [Lis
 ### 1. Eye-tracking
 
 <p><div style="text-align: justify">
-Overview: Thhis challenge focuses on advancing event-based eye tracking, a key technology for driving innovations in interaction technology, extended reality (XR) and cognitive studies. 
+Overview: This challenge focuses on advancing event-based eye tracking, a key technology for driving innovations in interaction technology, extended reality (XR) and cognitive studies. 
 While current state-of-the-art devices like Apple's Vision Pro or Meta’s Aria glasses utilize frame-based eye tracking with frame rates from 10 to 100 Hz and latency around 11 ms, there is a pressing need for smoother, faster, and more efficient methods to enhance user experience. By leveraging the event-based eye tracking dataset (<a href="https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/papers/Wang_Event-Based_Eye_Tracking._AIS_2024_Challenge_Survey_CVPRW_2024_paper.pdf">3ET+ dataset</a>), this challenge offers participants the opportunity to contribute to cutting-edge solutions that push beyond current limitations. Top-1-ranking team will get a Meta Quest 3 as the prize (Sponsored by DVsense). 
 </div></p>
 
@@ -284,7 +284,7 @@ Tracks:
 ---
 
 ## Location
-- On site (Music City Center, Nashville TN): Room <b>TBD</b>
+- On site (Music City Center, Nashville TN): Room <b>4th level, Grand Ballroom C2</b>
 <!-- - [Virtual: see CVPR virtual platform for zoom link](https://cvpr2023.thecvf.com/virtual/2023/workshop/18456) -->
 
 ## Schedule
