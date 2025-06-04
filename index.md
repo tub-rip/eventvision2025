@@ -89,7 +89,7 @@ A longer list of related topics is available in the table of content of the [Lis
 5. [BiasBench: A reproducible benchmark for tuning the biases of event cameras](https://arxiv.org/pdf/2504.18235)
 6. [MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection](https://arxiv.org/pdf/2505.11282)
 7. Looking into the Shadow: Recording a Total Solar Eclipse with High-resolution Event Cameras
-8. Probabilistic Online Event Downsampling
+8. [Probabilistic Online Event Downsampling](https://www.arxiv.org/pdf/2506.02547)
 9. [Every Event Counts: Balancing Data Efficiency and Accuracy in Event Camera  Subsampling](https://arxiv.org/pdf/2505.21187)
 10. Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection
 11. Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone
@@ -129,7 +129,7 @@ A longer list of related topics is available in the table of content of the [Lis
 
 ### List of Courtesy papers
 1. [NTIRE 2025 Challenge on Event-Based Image Deblurring: Methods and Results](https://www.arxiv.org/pdf/2504.12401), CVPRW 2025.
-2. Graph Neural Network Combining Event Stream and Periodic Aggregation for Low-Latency Event-based Vision, CVPR 2025.
+2. [Graph Neural Network Combining Event Stream and Periodic Aggregation for Low-Latency Event-based Vision](https://openaccess.thecvf.com/content/CVPR2025/papers/Dampfhoffer_Graph_Neural_Network_Combining_Event_Stream_and_Periodic_Aggregation_for_CVPR_2025_paper.pdf), CVPR 2025.
 3. [Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation](https://arxiv.org/pdf/2412.07761), CVPR 2025.
 4. [ETAP: Event-based Tracking of Any Point](https://github.com/tub-rip/ETAP), CVPR 2025.
 5. [EBS-EKF: Accurate and High Frequency Event-based Star Tracking](https://arxiv.org/pdf/2503.20101), CVPR 2025.
