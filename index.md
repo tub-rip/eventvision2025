@@ -148,8 +148,9 @@ A longer list of related topics is available in the table of content of the [Lis
 18. [Neuromorphic Facial Analysis with Cross-Modal Supervision](https://www.arxiv.org/pdf/2409.10213), ECCVW 2024.
 19. [Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras](https://arxiv.org/pdf/2505.17582), IEEE IV 2025.
 20. [Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras](https://arxiv.org/pdf/2505.15412), IEEE IV 2025.
-21. [Neural Inertial Odometry from Lie Events](https://roboticsconference.org/program/papers/143/), RSS 2025.
-22. **There is still time to submit!**
+21. [EvMAPPER: High Altitude Orthomapping with Event Cameras](https://arxiv.org/abs/2409.18120), ICRA 2025.
+22. [Neural Inertial Odometry from Lie Events](https://roboticsconference.org/program/papers/143/), RSS 2025.
+23. **There is still time to submit!**
 
 
 ## Competitions / Challenges
