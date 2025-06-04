@@ -269,9 +269,9 @@ Tracks:
 <b>Timeline</b>:
 <ul>
  <li><b>March 1, 2025</b>: Challenge opens for submissions</li>
- <li><b>June 2, 2025</b>: Challenge ends</li>
- <li><b>June 4, 2025</b>: Winners announced</li>
- <li><b>June 8, 2025</b>: The top submissions should send their code for manual evaluation, report, and posters.</li>
+ <li><b><del>June 2</del> <ins>June 9</ins>, 2025</b>: Challenge ends</li>
+ <li><b><del>June 8</del> <ins>June 9</ins>, 2025</b>: The top submissions should send their code for manual evaluation, report, and posters.</li>
+ <li><b><del>June 4</del> <ins>June 10</ins>, 2025</b>: Winners announced</li>
  <li><b>June 12, 2025</b>: Posters presented at the CVPR Workshop on Event-based vision.</li>
  <li>After the workshop: The top submissions are invited to collaborate on a report for the challenge.</li>
 </ul>
