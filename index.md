@@ -15,17 +15,36 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 ## <span style="color:tomato;">[Videos! YouTube Playlist](https://www.youtube.com/playlist?list=PLeXWz-g2If96iotpzgBNNTr9VA6hG-LLK)</span>
 -->
 
+
 ### <span style="color:tomato;">It starts at 8 am [Local Time](https://time.is/Nashville)</span>
 
-### Location: 4th level, Grand Ballroom C2
+### Location
+- **Posters**: ExHall D, poster **boards #280 - #359** at time 10:00 - 13:30. Push pins will be available.
+- **Talks**: 4th level, Grand Ballroom C2
 <img src="./images/location_grand_C2.png" alt="Room: Grand Ballroom C2" width="450"/>
 <!-- ![Room: Grand Ballroom C2](/images/location_grand_C2.png) -->
+
+
+## Schedule
+
+Time (local) | Session
+--- | ---
+8:00 | Welcome. Session 1: Davide Scaramuzza, Daniel Cremers, Priyadarshini Panda, Challenges introduction.
+10:00 | Coffee break. Set up posters.
+10:30 | Session 2: Poster session: contributed papers, demos, challenges and courtesy papers (as posters).
+12:30 | Lunch break
+13:30 | Session 3: Vladislav Golyanik, Christopher Metzler, Niklas Funk, Ziwei Wang
+15:30 | Coffee break
+16:00 | Session 4: Hussain Sajwani, Kobori and Shiba, Scott McCloskey, Kynan Eng, Davide Migliore
+17:50 | Award Ceremony and Final Panel Discussion.
+18:00 | End
+
 
 ## Invited Speakers
 ![workshop speakers and organizers](/images/2025_CVPRW_speakers_and_organizers.jpg)
 - [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) (University of Zurich, Switzerland)
 - [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/) (Max-Planck-Institut für Informatik, Germany) <!-- "Event-based Non-rigid 3D Reconstruction and Novel-View Synthesis" -->
-- [Priya Panda](https://seas.yale.edu/faculty-research/faculty-directory/priya-panda) (Yale University, USA)
+- [Priyadarshini Panda](https://seas.yale.edu/faculty-research/faculty-directory/priya-panda) (Yale University, USA)
 - [Daniel Cremers](https://www.professoren.tum.de/en/cremers-daniel) (TU Munich, Germany)
 - [Ziwei Wang](https://ieeexplore.ieee.org/author/37089197011) (ANU, Australia)
 - [Christopher Metzler](https://www.cs.umd.edu/people/metzler) (University of Maryland, USA)
@@ -69,6 +88,7 @@ A longer list of related topics is available in the table of content of the [Lis
 
 ## Call for Contributions
 
+<!--
 ### Research papers
 
 <p><div style="text-align: justify">
@@ -80,6 +100,7 @@ A longer list of related topics is available in the table of content of the [Lis
    Accepted papers will be published open access through the Computer Vision Foundation (CVF) (see <a href="https://openaccess.thecvf.com/CVPR2023_workshops/EventVision">examples from CVPR Workshop 2023</a>, <a href="https://openaccess.thecvf.com/CVPR2021_workshops/EventVision">2021</a> <a href="https://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_EventVision">and 2019</a>). We encourage authors of accepted papers to write a paragraph about ethical considerations and impact of their work.
   
   - For <b>demo</b> abstract submission, authors are encouraged to submit an abstract of up to 2 pages using the same template as CVPR 2025 paper submissions.
+-->
 
 ### List of accepted papers and live demos
 1. [Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view RGB and Event Streams](https://arxiv.org/pdf/2412.06770)
@@ -120,12 +141,14 @@ A longer list of related topics is available in the table of content of the [Lis
 36. Live Demonstration: NeuroTouch - A Neuromorphic Vision-based Tactile Sensor for Real-Time Gesture Recognition
 37. Live Demonstration: Real-time event-data processing with Graph Convolutional Neural Networks and SoC FPGA
  
+<!--
 ### Courtesy papers (in the poster session)
 <div style="text-align: justify">
   We also solicit contributions of <b>papers relevant to the workshop that are accepted</b> at the CVPR main conference or at other peer-reviewed conferences or journals.
   These contributions will be checked for suitability (soft review) and will not be published in the workshop proceedings.
-  Papers should be submitted in single blind format (e.g., accepted version is fine), and should mention if and where the paper has been accepted / published. These contributions provide visibility to your work and help building a community around the topics of the workshop. 
+  Papers should be submitted in single blind format (e.g., accepted version is fine), and should mention if and where the paper has been accepted / published. These contributions provide visibility to your work and help build a community around the topics of the workshop. 
   </div>
+-->
 
 ### List of Courtesy papers
 1. [NTIRE 2025 Challenge on Event-Based Image Deblurring: Methods and Results](https://www.arxiv.org/pdf/2504.12401), CVPRW 2025.
@@ -282,12 +305,15 @@ Tracks:
   <li><a href="https://www.grasp.upenn.edu/people/kenneth-chaney/">Dr. Kenneth Chaney</a> (chaneyk [at] seas.upenn.edu)</li>
 </ul>
 
+<!--
 ---
 
 ## Location
 - On site (Music City Center, Nashville TN): Room <b>4th level, Grand Ballroom C2</b>
-<!-- - [Virtual: see CVPR virtual platform for zoom link](https://cvpr2023.thecvf.com/virtual/2023/workshop/18456) -->
+- [Virtual: see CVPR virtual platform for zoom link](https://cvpr2023.thecvf.com/virtual/2023/workshop/18456) 
+-->
 
+<!-- 
 ## Schedule
 
 The tentative schedule is the following:
@@ -303,7 +329,7 @@ Time (local) | Session
 16:00 | Session 4: Hardware architectures and sensors (Invited speakers)
 17:45 | Award Ceremony and Final Panel Discussion.
 18:00 | End
-
+-->
 
 ## Organizers
 
@@ -355,13 +381,18 @@ Time (local) | Session
   <a href="https://www.youtube.com/playlist?list=PLeXWz-g2If94k8mw6GcKU5C9PUgM1sK0U">Videos</a></li>
 </ul>
 
+## Upcoming Workshops
+
+<ul>
+  <li><a href="https://sites.google.com/view/nevi-2025/home-page">ICCV 2025: 2nd Workshop on Neuromorphic Vision (NeVi 2025)</a> 
+</ul>
+
 See also [this link](https://github.com/uzh-rpg/event-based_vision_resources?tab=readme-ov-file#workshops)
 
-<!-- 
+
 ## Supported by
 
 <a href="https://www.scienceofintelligence.de"><img src="images/ScioI_Logo_L.svg" width="348"></a>
--->
 
 ## Ack
 
