@@ -137,7 +137,7 @@ A longer list of related topics is available in the table of content of the [Lis
 31. BRAT: Bidirectional Relative Positional Attention Transformer for Event-based Eye tracking
 32. [Exploring Temporal Dynamics in Event-based Eye Tracker](https://arxiv.org/pdf/2503.23725)
 33. [Dual-Path Enhancements in Event-Based Eye Tracking: Augmented Robustness and Adaptive Temporal Modeling](https://arxiv.org/pdf/2504.09960)
-34. Live Demonstration: AR Application Using Active Markers With An Event Camera
+34. Live Demonstration: Augmented Reality Applications Using Active Markers With An Event Camera
 35. Live Demonstration: Point-Feature Tracking for Pixel Processor Arrays
 36. Live Demonstration: NeuroTouch - A Neuromorphic Vision-based Tactile Sensor for Real-Time Gesture Recognition
 37. Live Demonstration: Real-time event-data processing with Graph Convolutional Neural Networks and SoC FPGA
