@@ -21,6 +21,7 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 ### Location
 - **Posters**: ExHall D, poster **boards #280 - #359** at time 10:00 - 13:30. Push pins will be available.
 - **Talks**: 4th level, Grand Ballroom C2
+
 <img src="./images/location_grand_C2.png" alt="Room: Grand Ballroom C2" width="450"/>
 <!-- ![Room: Grand Ballroom C2](/images/location_grand_C2.png) -->
 
