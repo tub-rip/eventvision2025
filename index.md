@@ -385,7 +385,7 @@ Time (local) | Session
 ## Upcoming Workshops
 
 <ul>
-  <li><a href="https://sites.google.com/view/nevi-2025/home-page">ICCV 2025: 2nd Workshop on Neuromorphic Vision (NeVi 2025)</a> 
+  <li><a href="https://sites.google.com/view/nevi-2025/home-page">ICCV 2025: 2nd Workshop on Neuromorphic Vision (NeVi 2025)</a></li> 
 </ul>
 
 See also [this link](https://github.com/uzh-rpg/event-based_vision_resources?tab=readme-ov-file#workshops)
