@@ -393,7 +393,7 @@ See also [this link](https://github.com/uzh-rpg/event-based_vision_resources?tab
 
 ## Supported by
 
-<a href="https://www.scienceofintelligence.de"><img src="images/ScioI_Logo_L.svg" width="348"></a>
+<a href="https://www.scienceofintelligence.de"><img src="images/SCIoI_Hauptlogo.png" width="348"></a>
 
 ## Ack
 
