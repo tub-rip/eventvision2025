@@ -127,7 +127,7 @@ A longer list of related topics is available in the table of content of the [Lis
 21. Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow
 22. Best Linear Unbiased Estimation for 2D and 3D Flow with Event-based Cameras
 23. [Iterative Event-based Motion Segmentation by Variational Contrast Maximization](https://arxiv.org/pdf/2504.18447)
-24. EV-LayerSegNet: Self-supervised Motion Segmentation using Event Cameras
+24. [EV-LayerSegNet: Self-supervised Motion Segmentation using Event Cameras](https://www.arxiv.org/abs/2506.06596)
 25. [Seeing like a Cephalopod: Colour Vision with a Monochrome Event Camera](https://arxiv.org/pdf/2504.10984)
 26. [Event-based Continuous Color Video Decompression from Single Frames](https://arxiv.org/pdf/2312.00113)
 27. Reading in the Dark with Foveated Event Vision
