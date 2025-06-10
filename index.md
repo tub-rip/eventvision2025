@@ -124,7 +124,7 @@ A longer list of related topics is available in the table of content of the [Lis
 18. Event-Driven Dynamic Attention for Multi-Object Tracking on Neuromorphic Hardware
 19. Event-based Tracking and Imaging of Randomly Moving Objects in Dense Dynamical Scattering Media
 20. [Perturbed State Space Feature Encoders for Optical Flow with Event Cameras](https://arxiv.org/pdf/2504.10669)
-21. Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow
+21. [Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow](https://arxiv.org/pdf/2506.07878)
 22. Best Linear Unbiased Estimation for 2D and 3D Flow with Event-based Cameras
 23. [Iterative Event-based Motion Segmentation by Variational Contrast Maximization](https://arxiv.org/pdf/2504.18447)
 24. EV-LayerSegNet: Self-supervised Motion Segmentation using Event Cameras
