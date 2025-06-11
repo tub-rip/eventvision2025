@@ -27,7 +27,7 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 
 
 ## Schedule
-
+<!-- 
 Time (local) | Session
 --- | ---
 8:00 | Welcome. Session 1: Davide Scaramuzza, Daniel Cremers, Priyadarshini Panda, Challenges introduction.
@@ -39,7 +39,8 @@ Time (local) | Session
 16:00 | Session 4: Hussain Sajwani, Kobori and Shiba, Scott McCloskey, Kynan Eng, Davide Migliore
 17:50 | Award Ceremony and Final Panel Discussion.
 18:00 | End
-
+-->
+![Schedule](/images/CVPRW2025_Schedule_EventVision.png)
 
 ## Invited Speakers
 ![workshop speakers and organizers](/images/2025_CVPRW_speakers_and_organizers.jpg)
