@@ -108,7 +108,7 @@ A longer list of related topics is available in the table of content of the [Lis
 1. [Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view RGB and Event Streams](https://arxiv.org/pdf/2412.06770)
 2. [Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distances in Latent Space](https://arxiv.org/pdf/2504.12515)
 3. [E-VLC: A Real-World Dataset for Event-based Visible Light Communication And Localization](https://arxiv.org/pdf/2504.18521)
-4. EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects
+4. [EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects](https://arxiv.org/pdf/2506.04048)
 5. [BiasBench: A reproducible benchmark for tuning the biases of event cameras](https://arxiv.org/pdf/2504.18235)
 6. [MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection](https://arxiv.org/pdf/2505.11282)
 7. Looking into the Shadow: Recording a Total Solar Eclipse with High-resolution Event Cameras
