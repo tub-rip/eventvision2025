@@ -15,6 +15,8 @@ Many thanks to all who contributed and made this workshop possible!
 ## <span style="color:tomato;">[Videos! YouTube Playlist](https://www.youtube.com/playlist?list=PLeXWz-g2If96iotpzgBNNTr9VA6hG-LLK)</span>
 -->
 
+## [Please fill in the Survey: Neuromorphic Technology: What's Holding It Back?](https://lnkd.in/eqBiqwGt)
+
 <!-- 
 ### <span style="color:tomato;">It starts at 8 am [Local Time](https://time.is/Nashville)</span>
 -->
