@@ -51,6 +51,7 @@ Many thanks to all who contributed and made this workshop possible!
 - [Prophesee](https://www.prophesee.ai/), France.
 
 ## Schedule
+
 Time (local) | Session
 --- | ---
 8:00 | [Welcome slides](https://docs.google.com/presentation/d/1q-LtQwCOLRmnQATlLhk_LX3O-xL2OHBE8GUcrhTgtcY/edit?usp=sharing). Session 1: Davide Scaramuzza, Daniel Cremers, Priyadarshini Panda, Challenges introduction.
