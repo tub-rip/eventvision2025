@@ -91,9 +91,9 @@ Space Models).
 
 A longer list of related topics is available in the table of content of the [List of Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)
 
+<!--
 ## Call for Contributions
 
-<!--
 ### Research papers
 
 <p><div style="text-align: justify">
@@ -107,7 +107,7 @@ A longer list of related topics is available in the table of content of the [Lis
   - For <b>demo</b> abstract submission, authors are encouraged to submit an abstract of up to 2 pages using the same template as CVPR 2025 paper submissions.
 -->
 
-### [Proceedings](https://openaccess.thecvf.com/CVPR2025_workshops/EventVision)
+## [Proceedings at The Computer Vision Foundation (CVF)](https://openaccess.thecvf.com/CVPR2025_workshops/EventVision)
 
 ### List of accepted papers and live demos
 1. [Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view RGB and Event Streams](https://arxiv.org/pdf/2412.06770)
@@ -180,7 +180,6 @@ A longer list of related topics is available in the table of content of the [Lis
 20. [Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras](https://arxiv.org/pdf/2505.15412), IEEE IV 2025.
 21. [EvMAPPER: High Altitude Orthomapping with Event Cameras](https://arxiv.org/abs/2409.18120), ICRA 2025.
 22. [Neural Inertial Odometry from Lie Events](https://roboticsconference.org/program/papers/143/), RSS 2025.
-23. **There is still time to submit!**
 
 
 ## Competitions / Challenges
