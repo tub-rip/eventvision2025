@@ -6,7 +6,7 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 
 <b>Welcome to the 5th International Workshop on Event-Based Vision!</b>  
 
-![CVPRW 2025 edition. Photo by G. Gallego](/images/CVPRW2023_EventVision_group_picture.jpg)
+![CVPRW 2025 edition. Photo by G. Gallego](/images/CVPRW2025_EventVision_group_picture.jpg)
 Many thanks to all who contributed and made this workshop possible! 
 
 ## <span style="color:tomato;">[Photo Album of the Workshop](https://photos.app.goo.gl/mgCJHehT7KQYhzSr9)</span>
