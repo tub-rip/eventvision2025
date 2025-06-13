@@ -6,41 +6,31 @@ Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern
 
 <b>Welcome to the 5th International Workshop on Event-Based Vision!</b>  
 
-<!-- ![CVPRW 2023 edition photo by S. Shiba](/images/CVPRW2023_EventVision_group_picture.jpg) -->
-<!-- Many thanks to all who contributed and made this workshop possible! --> 
+![CVPRW 2025 edition. Photo by G. Gallego](/images/CVPRW2023_EventVision_group_picture.jpg)
+Many thanks to all who contributed and made this workshop possible! 
+
+## <span style="color:tomato;">[Photo Album of the Workshop](https://photos.app.goo.gl/mgCJHehT7KQYhzSr9)</span>
 
 <!--
-## <span style="color:tomato;">[Photo Album of the Workshop](https://photos.app.goo.gl/z5gMLG2AF6U5qHcY7)</span>
-
 ## <span style="color:tomato;">[Videos! YouTube Playlist](https://www.youtube.com/playlist?list=PLeXWz-g2If96iotpzgBNNTr9VA6hG-LLK)</span>
 -->
 
-
+<!-- 
 ### <span style="color:tomato;">It starts at 8 am [Local Time](https://time.is/Nashville)</span>
+-->
 
+<!-- 
 ### Location
 - **Posters**: ExHall D, poster **boards #280 - #359** at time 10:00 - 13:30. Push pins will be available.
 - **Talks**: 4th level, Grand Ballroom C2
+-->
 
-<img src="./images/location_grand_C2.png" alt="Room: Grand Ballroom C2" width="450"/>
+<!-- <img src="./images/location_grand_C2.png" alt="Room: Grand Ballroom C2" width="450"/> -->
 <!-- ![Room: Grand Ballroom C2](/images/location_grand_C2.png) -->
 
-
-## Schedule
-<!-- 
-Time (local) | Session
---- | ---
-8:00 | Welcome. Session 1: Davide Scaramuzza, Daniel Cremers, Priyadarshini Panda, Challenges introduction.
-10:00 | Coffee break. Set up posters.
-10:30 | Session 2: Poster session: contributed papers, demos, challenges and courtesy papers (as posters).
-12:30 | Lunch break
-13:30 | Session 3: Vladislav Golyanik, Christopher Metzler, Niklas Funk, Ziwei Wang
-15:30 | Coffee break
-16:00 | Session 4: Hussain Sajwani, Kobori and Shiba, Scott McCloskey, Kynan Eng, Davide Migliore
-17:50 | Award Ceremony and Final Panel Discussion.
-18:00 | End
--->
+<!--
 ![Schedule](/images/CVPRW2025_Schedule_EventVision.png)
+-->
 
 ## Invited Speakers
 ![workshop speakers and organizers](/images/2025_CVPRW_speakers_and_organizers.jpg)
@@ -57,6 +47,19 @@ Time (local) | Session
 - [Davide Migliore](https://www.linkedin.com/in/davidemigliore/) (Tempo Sense, USA)
 - [Kynan Eng](https://www.synsense.ai/) (SynSense Group, Switzerland)
 - [Prophesee](https://www.prophesee.ai/), France.
+
+## Schedule
+Time (local) | Session
+--- | ---
+8:00 | [Welcome slides](https://docs.google.com/presentation/d/1q-LtQwCOLRmnQATlLhk_LX3O-xL2OHBE8GUcrhTgtcY/edit?usp=sharing). Session 1: Davide Scaramuzza, Daniel Cremers, Priyadarshini Panda, Challenges introduction.
+10:00 | Coffee break. Set up posters.
+10:30 | Session 2: Poster session: contributed papers, demos, challenges and courtesy papers (as posters).
+12:30 | Lunch break
+13:30 | Session 3: Niklas Funk, Christopher Metzler, Vladislav Golyanik, Ziwei Wang
+15:30 | Coffee break
+16:00 | Session 4: Hussain Sajwani, Shintaro Shiba, Scott McCloskey, Kynan Eng, Davide Migliore
+17:50 | [Award Ceremony slides](https://docs.google.com/presentation/d/1Fbk2UOAekj5SfXke3-b2WZuArfGeaeHWwL7iFe6Rdzs/edit?usp=sharing).
+18:00 | End
 
 ## Objectives
 
@@ -103,6 +106,8 @@ A longer list of related topics is available in the table of content of the [Lis
   
   - For <b>demo</b> abstract submission, authors are encouraged to submit an abstract of up to 2 pages using the same template as CVPR 2025 paper submissions.
 -->
+
+### [Proceedings](https://openaccess.thecvf.com/CVPR2025_workshops/EventVision)
 
 ### List of accepted papers and live demos
 1. [Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view RGB and Event Streams](https://arxiv.org/pdf/2412.06770)
@@ -313,9 +318,7 @@ Tracks:
 ## Location
 - On site (Music City Center, Nashville TN): Room <b>4th level, Grand Ballroom C2</b>
 - [Virtual: see CVPR virtual platform for zoom link](https://cvpr2023.thecvf.com/virtual/2023/workshop/18456) 
--->
 
-<!-- 
 ## Schedule
 
 The tentative schedule is the following:
@@ -387,6 +390,7 @@ Time (local) | Session
 
 <ul>
   <li><a href="https://sites.google.com/view/nevi-2025/home-page">ICCV 2025: 2nd Workshop on Neuromorphic Vision (NeVi 2025)</a></li> 
+    <li><a href="https://sites.google.com/view/neurobots2025">IROS 2025: NeuRobots 2025. Workshop on Neuromorphic Perception for Real World Robotics</a></li> 
 </ul>
 
 See also [this link](https://github.com/uzh-rpg/event-based_vision_resources?tab=readme-ov-file#workshops)
