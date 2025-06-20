@@ -46,8 +46,8 @@ Many thanks to all who contributed and made this workshop possible!
   </colgroup>
   <thead>
     <tr>
-      <td>Time</td>
-      <td>Speaker and Title </td>
+      <th>Time</th>
+      <th>Speaker and Title </th>
     </tr>  
   </thead>
   <tbody>
