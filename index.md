@@ -36,36 +36,8 @@ Many thanks to all who contributed and made this workshop possible!
 
 ## Invited Speakers
 ![workshop speakers and organizers](/images/2025_CVPRW_speakers_and_organizers.jpg)
-<!--
-- [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) (University of Zurich, Switzerland)
-- [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/) (Max-Planck-Institut für Informatik, Germany)
-- [Priyadarshini Panda](https://seas.yale.edu/faculty-research/faculty-directory/priya-panda) (Yale University, USA)
-- [Daniel Cremers](https://www.professoren.tum.de/en/cremers-daniel) (TU Munich, Germany)
-- [Ziwei Wang](https://ieeexplore.ieee.org/author/37089197011) (ANU, Australia)
-- [Christopher Metzler](https://www.cs.umd.edu/people/metzler) (University of Maryland, USA)
-- [Norimasa Kobori](https://www.linkedin.com/in/norimasa-kobori-39020311b/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=jp) and [Shintaro Shiba](http://shibashintaro.com/) (Woven by Toyota, Japan)
-- [Niklas Funk](https://niklasfunk.com/) (TU Darmstadt, Germany)
-- [Scott McCloskey](https://www.kitware.com/scott-mccloskey/) (Kitware, USA)
-- [Hussain Sajwani](https://www.linkedin.com/in/hussain-sajwani-1709a6196/?originalSubdomain=ae) (Khalifa University, UAE)
-- [Davide Migliore](https://www.linkedin.com/in/davidemigliore/) (Tempo Sense, USA)
-- [Kynan Eng](https://www.synsense.ai/) (SynSense Group, Switzerland)
--->
-  
+ 
 ## Schedule
-
-<!--
-Time (local) | Session
---- | ---
-8:00 | [Welcome slides](https://docs.google.com/presentation/d/1q-LtQwCOLRmnQATlLhk_LX3O-xL2OHBE8GUcrhTgtcY/edit?usp=sharing). Session 1: Davide Scaramuzza, Daniel Cremers, Priyadarshini Panda, Challenges introduction.
-10:00 | Coffee break. Set up posters.
-10:30 | Session 2: Poster session: contributed papers, demos, challenges and courtesy papers (as posters).
-12:30 | Lunch break
-13:30 | Session 3: Niklas Funk, Christopher Metzler, Vladislav Golyanik, Ziwei Wang
-15:30 | Coffee break
-16:00 | Session 4: Hussain Sajwani, Shintaro Shiba, Scott McCloskey, Kynan Eng, Davide Migliore
-17:50 | [Award Ceremony slides](https://docs.google.com/presentation/d/1Fbk2UOAekj5SfXke3-b2WZuArfGeaeHWwL7iFe6Rdzs/edit?usp=sharing).
-18:00 | End
--->
 
 <table style="width: 100%">
   <colgroup>
