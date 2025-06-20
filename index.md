@@ -36,8 +36,9 @@ Many thanks to all who contributed and made this workshop possible!
 
 ## Invited Speakers
 ![workshop speakers and organizers](/images/2025_CVPRW_speakers_and_organizers.jpg)
+<!--
 - [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) (University of Zurich, Switzerland)
-- [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/) (Max-Planck-Institut für Informatik, Germany) <!-- "Event-based Non-rigid 3D Reconstruction and Novel-View Synthesis" -->
+- [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/) (Max-Planck-Institut für Informatik, Germany)
 - [Priyadarshini Panda](https://seas.yale.edu/faculty-research/faculty-directory/priya-panda) (Yale University, USA)
 - [Daniel Cremers](https://www.professoren.tum.de/en/cremers-daniel) (TU Munich, Germany)
 - [Ziwei Wang](https://ieeexplore.ieee.org/author/37089197011) (ANU, Australia)
@@ -48,10 +49,11 @@ Many thanks to all who contributed and made this workshop possible!
 - [Hussain Sajwani](https://www.linkedin.com/in/hussain-sajwani-1709a6196/?originalSubdomain=ae) (Khalifa University, UAE)
 - [Davide Migliore](https://www.linkedin.com/in/davidemigliore/) (Tempo Sense, USA)
 - [Kynan Eng](https://www.synsense.ai/) (SynSense Group, Switzerland)
-- [Prophesee](https://www.prophesee.ai/), France.
-
+-->
+  
 ## Schedule
 
+<!--
 Time (local) | Session
 --- | ---
 8:00 | [Welcome slides](https://docs.google.com/presentation/d/1q-LtQwCOLRmnQATlLhk_LX3O-xL2OHBE8GUcrhTgtcY/edit?usp=sharing). Session 1: Davide Scaramuzza, Daniel Cremers, Priyadarshini Panda, Challenges introduction.
@@ -63,6 +65,130 @@ Time (local) | Session
 16:00 | Session 4: Hussain Sajwani, Shintaro Shiba, Scott McCloskey, Kynan Eng, Davide Migliore
 17:50 | [Award Ceremony slides](https://docs.google.com/presentation/d/1Fbk2UOAekj5SfXke3-b2WZuArfGeaeHWwL7iFe6Rdzs/edit?usp=sharing).
 18:00 | End
+-->
+
+<table style="width: 100%">
+  <colgroup>
+    <col span="1" style="width: 10%;">
+    <col span="1" style="width: 90%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <td>Time</td>
+      <td>Speaker and Title </td>
+    </tr>  
+  </thead>
+  <tbody>
+    <tr>
+      <td bgcolor="WhiteSmoke">08:00</td>
+      <td bgcolor="WhiteSmoke"><b>SESSION 1</b></td>
+    </tr>
+    <tr>
+      <td>08:00</td>
+      <td><b><a href="https://docs.google.com/presentation/d/1q-LtQwCOLRmnQATlLhk_LX3O-xL2OHBE8GUcrhTgtcY/edit?usp=sharing"> Welcome and Organization (slides)</a></b>
+    </tr>    
+    <tr>
+      <td>08:05</td>
+      <td><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a> (University of Zurich, Switzerland)
+      </td>
+    </tr>
+    <tr>
+      <td>08:35</td>
+      <td><a href="https://www.professoren.tum.de/en/cremers-daniel">Daniel Cremers</a> (TU Munich, Germany)
+      </td>
+    </tr>
+    <tr>
+      <td>09:05</td>
+      <td><a href="https://seas.yale.edu/faculty-research/faculty-directory/priya-panda">Priyadarshini Panda (Yale University, USA)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>09:40</td>
+      <td>Introduction of 4 Challenges: <br>Eye-tracking, Deblurring, Segmentation and SLAM.
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="LavenderBlush">10:00</td>
+      <td bgcolor="LavenderBlush"><b>Coffee break. Set up posters</b></td>
+    </tr>
+    <tr>
+      <td bgcolor="WhiteSmoke">10:30</td>
+      <td bgcolor="WhiteSmoke"><b>SESSION 2</b></td>
+    </tr>
+    <tr>
+      <td bgcolor="LemonChiffon">10:30</td>
+      <td bgcolor="LemonChiffon"> Poster session: contributed papers, demos, challenges <br>and courtesy papers (as posters). Boards 280 -- 359.
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="LavenderBlush">12:30</td>
+      <td bgcolor="LavenderBlush"><b>Lunch break</b></td>
+    </tr>
+    <tr>
+      <td bgcolor="WhiteSmoke">13:30</td>
+      <td bgcolor="WhiteSmoke"><b>SESSION 3</b></td>
+    </tr>
+    <tr>
+      <td>13:30</td>
+      <td><a href="https://niklasfunk.com/">Niklas Funk</a> (TU Darmstadt, Germany)
+      </td>
+    </tr>
+    <tr>
+      <td>13:55</td>
+      <td><a href="https://www.cs.umd.edu/people/metzler">Christopher Metzler</a> (University of Maryland, USA)
+      </td>
+    </tr>
+    <tr>
+      <td>14:20</td>
+      <td><a href="https://people.mpi-inf.mpg.de/~golyanik/">Vladislav Golyanik</a> (Max-Planck-Institut für Informatik, Germany)
+      </td>
+    </tr>
+    <tr>
+      <td>14:45</td>
+      <td><a href="https://ieeexplore.ieee.org/author/37089197011">Ziwei Wang</a> (ANU, Australia)
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="LavenderBlush">15:10</td>
+      <td bgcolor="LavenderBlush"><b>Coffee break</b></td>
+    </tr>
+    <tr>
+      <td bgcolor="WhiteSmoke">16:00</td>
+      <td bgcolor="WhiteSmoke"><b>SESSION 4</b></td>
+    </tr>
+    <tr>
+      <td>16:00</td>
+      <td><a href="https://www.linkedin.com/in/hussain-sajwani-1709a6196/?originalSubdomain=ae">Hussain Sajwani</a> (Khalifa University, UAE)
+      </td>
+    </tr>
+    <tr>
+      <td>16:20</td>
+      <td><a href="http://shibashintaro.com/">Shintaro Shiba</a> (Woven by Toyota, Japan)
+      </td>
+    </tr>
+    <tr>
+      <td>16:40</td>
+      <td><a href="https://www.kitware.com/scott-mccloskey/">Scott McCloskey</a> (Kitware, USA)
+      </td>
+    </tr>
+    <tr>
+      <td>17:00</td>
+      <td><a href="https://www.synsense.ai/">Kynan Eng</a> (SynSense Group, Switzerland)
+      </td>
+    </tr>
+    <tr>
+      <td>17:30</td>
+      <td><a href="https://www.linkedin.com/in/davidemigliore/">Davide Migliore</a> (Tempo Sense, USA)
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="LightGreen">17:50</td>
+      <td bgcolor="LightGreen"><b><a href="https://docs.google.com/presentation/d/1Fbk2UOAekj5SfXke3-b2WZuArfGeaeHWwL7iFe6Rdzs/edit?usp=sharing">Award Ceremony</a></b>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Objectives
 
@@ -113,43 +239,43 @@ A longer list of related topics is available in the table of content of the [Lis
 ## [Proceedings at The Computer Vision Foundation (CVF)](https://openaccess.thecvf.com/CVPR2025_workshops/EventVision)
 
 ### List of accepted papers and live demos
-1. [Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view RGB and Event Streams](https://arxiv.org/pdf/2412.06770)
-2. [Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distances in Latent Space](https://arxiv.org/pdf/2504.12515)
-3. [E-VLC: A Real-World Dataset for Event-based Visible Light Communication And Localization](https://arxiv.org/pdf/2504.18521)
-4. EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects
-5. [BiasBench: A reproducible benchmark for tuning the biases of event cameras](https://arxiv.org/pdf/2504.18235)
-6. [MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection](https://arxiv.org/pdf/2505.11282)
-7. Looking into the Shadow: Recording a Total Solar Eclipse with High-resolution Event Cameras
-8. [Probabilistic Online Event Downsampling](https://www.arxiv.org/pdf/2506.02547)
-9. [Making Every Event Count: Balancing Data Efficiency and Accuracy in Event Camera Subsampling](https://arxiv.org/pdf/2505.21187)
-10. Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection
-11. Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone
-12. Real-Time Pedestrian Detection at the Edge on a Fully Asynchronous Neuromorphic System
-13. Reading Events Hierarchically to Reduce Latency
-14. [DELTA: Dense Depth from Events and LiDAR using Transformer’s Attention](https://arxiv.org/pdf/2505.02593)
-15. Quadrocular, Neuromorphic Stereo Triangulation and Asynchronous Data Fusion for 3D Object Tracking
-16. Nanoparticle Diameter Measurements With Event Camera Tracking
-17. Egocentric Event-Based Vision for Ping Pong Ball Trajectory Prediction
-18. Event-Driven Dynamic Attention for Multi-Object Tracking on Neuromorphic Hardware
-19. Event-based Tracking and Imaging of Randomly Moving Objects in Dense Dynamical Scattering Media
-20. [Perturbed State Space Feature Encoders for Optical Flow with Event Cameras](https://arxiv.org/pdf/2504.10669)
-21. Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow
-22. Best Linear Unbiased Estimation for 2D and 3D Flow with Event-based Cameras
-23. [Iterative Event-based Motion Segmentation by Variational Contrast Maximization](https://arxiv.org/pdf/2504.18447)
-24. EV-LayerSegNet: Self-supervised Motion Segmentation using Event Cameras
-25. [Seeing like a Cephalopod: Colour Vision with a Monochrome Event Camera](https://arxiv.org/pdf/2504.10984)
-26. [Event-based Continuous Color Video Decompression from Single Frames](https://arxiv.org/pdf/2312.00113)
-27. Reading in the Dark with Foveated Event Vision
-28. Human-Robot Navigation using Event-based Cameras and Reinforcement Learning
-29. E-BARF: Bundle Adjusting Neural Radiance Fields from a Moving Event Camera
-30. [Event-based eye tracking. Even-based Vision Workshop 2025](https://arxiv.org/pdf/2504.18249)
-31. BRAT: Bidirectional Relative Positional Attention Transformer for Event-based Eye tracking
-32. [Exploring Temporal Dynamics in Event-based Eye Tracker](https://arxiv.org/pdf/2503.23725)
-33. [Dual-Path Enhancements in Event-Based Eye Tracking: Augmented Robustness and Adaptive Temporal Modeling](https://arxiv.org/pdf/2504.09960)
-34. Live Demonstration: Augmented Reality Applications Using Active Markers With An Event Camera
-35. Live Demonstration: Point-Feature Tracking for Pixel Processor Arrays
-36. Live Demonstration: NeuroTouch - A Neuromorphic Vision-based Tactile Sensor for Real-Time Gesture Recognition
-37. Live Demonstration: Real-time event-data processing with Graph Convolutional Neural Networks and SoC FPGA
+1. [Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view RGB and Event Streams](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Rudnev_Dynamic_EventNeRF_Reconstructing_General_Dynamic_Scenes_from_Multi-view_RGB_and_CVPRW_2025_paper.html)
+2. [Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distances in Latent Space](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Chanda_Event_Quality_Score_EQS_Assessing_the_Realism_of_Simulated_Event_CVPRW_2025_paper.html)
+3. [E-VLC: A Real-World Dataset for Event-based Visible Light Communication And Localization](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Shiba_E-VLC_A_Real-World_Dataset_for_Event-based_Visible_Light_Communication_And_CVPRW_2025_paper.html)
+4. [EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Magrini_EV-Flying_an_Event-based_Dataset_for_In-The-Wild_Recognition_of_Flying_Objects_CVPRW_2025_paper.html)
+5. [BiasBench: A reproducible benchmark for tuning the biases of event cameras](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Ziegler_BiasBench_A_reproducible_benchmark_for_tuning_the_biases_of_event_CVPRW_2025_paper.html)
+6. [MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Awasthi_MTevent_A_Multi-Task_Event_Camera_Dataset_for_6D_Pose_Estimation_CVPRW_2025_paper.html)
+7. [Looking into the Shadow: Recording a Total Solar Eclipse with High-resolution Event Cameras](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Cladera_Looking_into_the_Shadow_Recording_a_Total_Solar_Eclipse_with_CVPRW_2025_paper.html)
+8. [Probabilistic Online Event Downsampling](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Girbau-Xalabarder_Probabilistic_Online_Event_Downsampling_CVPRW_2025_paper.html)
+9. [Making Every Event Count: Balancing Data Efficiency and Accuracy in Event Camera Subsampling](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Araghi_Making_Every_Event_Count_Balancing_Data_Efficiency_and_Accuracy_in_CVPRW_2025_paper.html)
+10. [Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Kowalczyk_Learning_from_Noise_Enhancing_DNNs_for_Event-Based_Vision_through_Controlled_CVPRW_2025_paper.html)
+11. [Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Bonazzi_Towards_Low-Latency_Event-based_Obstacle_Avoidance_on_a_FPGA-Drone_CVPRW_2025_paper.html)
+12. [Real-Time Pedestrian Detection at the Edge on a Fully Asynchronous Neuromorphic System](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Bulzomi_Real-Time_Pedestrian_Detection_at_the_Edge_on_a_Fully_Asynchronous_CVPRW_2025_paper.html)
+13. [DELTA: Dense Depth from Events and LiDAR using Transformer’s Attention](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Brebion_DELTA_Dense_Depth_from_Events_and_LiDAR_using_Transformers_Attention_CVPRW_2025_paper.html)
+14. [Quadrocular, Neuromorphic Stereo Triangulation and Asynchronous Data Fusion for 3D Object Tracking](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Sengupta_Quadrocular_Neuromorphic_Stereo_Triangulation_and_Asynchronous_Data_Fusion_for_3D_CVPRW_2025_paper.html)
+15. [Nanoparticle Diameter Measurements With Event Camera Tracking](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Daugherty_Nanoparticle_Diameter_Measurements_With_Event_Camera_Tracking_CVPRW_2025_paper.html)
+16. [Egocentric Event-Based Vision for Ping Pong Ball Trajectory Prediction](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Alberico_Egocentric_Event-Based_Vision_for_Ping_Pong_Ball_Trajectory_Prediction_CVPRW_2025_paper.html)
+17. [Event-Driven Dynamic Attention for Multi-Object Tracking on Neuromorphic Hardware](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Aitsam_Event-Driven_Dynamic_Attention_for_Multi-Object_Tracking_on_Neuromorphic_Hardware_CVPRW_2025_paper.html)
+18. [Event-based Tracking and Imaging of Randomly Moving Objects in Dense Dynamical Scattering Media](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Zhang_Event-based_Tracking_and_Imaging_of_Randomly_Moving_Objects_in_Dense_CVPRW_2025_paper.html)
+19. [Perturbed State Space Feature Encoders for Optical Flow with Event Cameras](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Raju_Perturbed_State_Space_Feature_Encoders_for_Optical_Flow_with_Event_CVPRW_2025_paper.html)
+20. [Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Humais_Spatio-Temporal_State_Space_Model_For_Efficient_Event-Based_Optical_Flow_CVPRW_2025_paper.html)
+21. [Best Linear Unbiased Estimation for 2D and 3D Flow with Event-based Cameras](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Valerdi_Best_Linear_Unbiased_Estimation_for_2D_and_3D_Flow_with_CVPRW_2025_paper.html)
+22. [Iterative Event-based Motion Segmentation by Variational Contrast Maximization](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Yamaki_Iterative_Event-based_Motion_Segmentation_by_Variational_Contrast_Maximization_CVPRW_2025_paper.html)
+23. [EV-LayerSegNet: Self-supervised Motion Segmentation using Event Cameras](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Farah_EV-LayerSegNet_Self-supervised_Motion_Segmentation_using_Event_Cameras_CVPRW_2025_paper.html)
+24. [Seeing like a Cephalopod: Colour Vision with a Monochrome Event Camera](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Arja_Seeing_like_a_Cephalopod_Colour_Vision_with_a_Monochrome_Event_CVPRW_2025_paper.html)
+25. [Event-based Continuous Color Video Decompression from Single Frames](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Wang_Event-based_Continuous_Color_Video_Decompression_from_Single_Frames_CVPRW_2025_paper.html)
+26. [Reading in the Dark with Foveated Event Vision](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Brander_Reading_in_the_Dark_with_Foveated_Event_Vision_CVPRW_2025_paper.html)
+27. [Human-Robot Navigation using Event-based Cameras and Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Bugueno-Cordova_Human-Robot_Navigation_using_Event-based_Cameras_and_Reinforcement_Learning_CVPRW_2025_paper.html)
+28. [E-BARF: Bundle Adjusting Neural Radiance Fields from a Moving Event Camera](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Tang_E-BARF_Bundle_Adjusting_Neural_Radiance_Fields_from_a_Moving_Event_CVPRW_2025_paper.html)
+29. [Event-based eye tracking. Even-based Vision Workshop 2025](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Chen_Event-based_eye_tracking._Even-based_Vision_Workshop_2025_CVPRW_2025_paper.html)
+30. [BRAT: Bidirectional Relative Positional Attention Transformer for Event-based Eye tracking](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Wu_BRAT_Bidirectional_Relative_Positional_Attention_Transformer_for_Event-based_Eye_tracking_CVPRW_2025_paper.html)
+31. [Exploring Temporal Dynamics in Event-based Eye Tracker](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Huang_Exploring_Temporal_Dynamics_in_Event-based_Eye_Tracker_CVPRW_2025_paper.html)
+32. [Dual-Path Enhancements in Event-Based Eye Tracking: Augmented Robustness and Adaptive Temporal Modeling](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Truong_Dual-Path_Enhancements_in_Event-Based_Eye_Tracking_Augmented_Robustness_and_Adaptive_CVPRW_2025_paper.html)
+33. [Live Demonstration: Augmented Reality Applications Using Active Markers With An Event Camera](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Shiba_Augmented_Reality_Applications_Using_Active_Markers_With_An_Event_Camera_CVPRW_2025_paper.html)
+34. [Live Demonstration: Point-Feature Tracking for Pixel Processor Arrays](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Bose_Demo__Point-Feature_Tracking_for_Pixel_Processor_Arrays_CVPRW_2025_paper.html)
+35. [Live Demonstration: NeuroTouch - A Neuromorphic Vision-based Tactile Sensor for Real-Time Gesture Recognition](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Hoffmann_Live_Demonstration_NeuroTouch_-_A_Neuromorphic_Vision-based_Tactile_Sensor_for_CVPRW_2025_paper.html)
+36. [Live Demonstration: Real-time event-data processing with Graph Convolutional Neural Networks and SoC FPGA](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Wzorek_Live_Demonstration_Real-time_event-data_processing_with_Graph_Convolutional_Neural_Networks_CVPRW_2025_paper.html)
+37. Reading Events Hierarchically to Reduce Latency
  
 <!--
 ### Courtesy papers (in the poster session)
