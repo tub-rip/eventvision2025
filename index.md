@@ -55,6 +55,30 @@ Many thanks to all who contributed and made this workshop possible!
       <td bgcolor="WhiteSmoke">08:00</td>
       <td bgcolor="WhiteSmoke"><b>SESSION 1</b></td>
     </tr>
+    <tr>
+      <td>08:00</td>
+      <td><b><a href="https://docs.google.com/presentation/d/1q-LtQwCOLRmnQATlLhk_LX3O-xL2OHBE8GUcrhTgtcY/edit?usp=sharing"> Welcome and Organization (slides)</a></b>
+    </tr>    
+    <tr>
+      <td>08:05</td>
+      <td><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a> (University of Zurich, Switzerland)
+      </td>
+    </tr>
+    <tr>
+      <td>08:35</td>
+      <td><a href="https://www.professoren.tum.de/en/cremers-daniel">Daniel Cremers</a> (TU Munich, Germany)
+      </td>
+    </tr>
+    <tr>
+      <td>09:05</td>
+      <td><a href="https://seas.yale.edu/faculty-research/faculty-directory/priya-panda">Priyadarshini Panda (Yale University, USA)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>09:40</td>
+      <td>Introduction of 4 Challenges: <br>Eye-tracking, Deblurring, Segmentation and SLAM.
+      </td>
+    </tr>   
   </tbody>
 </table>
 
