@@ -46,8 +46,8 @@ Many thanks to all who contributed and made this workshop possible!
   </colgroup>
   <thead>
     <tr>
-      <th>Time</th>
-      <th>Speaker and Title </th>
+      <td><b>Time</b></td>
+      <td><b>Speaker and Title</b></td>
     </tr>
   </thead>
   <tbody>
@@ -56,8 +56,8 @@ Many thanks to all who contributed and made this workshop possible!
       <td bgcolor="WhiteSmoke"><b>SESSION 1</b></td>
     </tr>
     <tr>
-      <td>08:00</td>
-      <td><b><a href="https://docs.google.com/presentation/d/1q-LtQwCOLRmnQATlLhk_LX3O-xL2OHBE8GUcrhTgtcY/edit?usp=sharing"> Welcome and Organization (slides)</a></b>
+      <td style="background-color:rgb(233, 252, 233);">08:00</td>
+      <td style="background-color:rgb(233, 252, 233);"><b><a href="https://docs.google.com/presentation/d/1q-LtQwCOLRmnQATlLhk_LX3O-xL2OHBE8GUcrhTgtcY/edit?usp=sharing"> Welcome and Organization</a></b>
       </td>
     </tr>    
     <tr>
@@ -146,7 +146,7 @@ Many thanks to all who contributed and made this workshop possible!
     </tr>
     <tr>
       <td>17:00</td>
-      <td><a href="https://www.synsense.ai/">Kynan Eng</a> (SynSense Group, Switzerland)
+      <td><a href="https://www.kynaneng.com/">Kynan Eng</a> (SynSense Group, Switzerland)
       </td>
     </tr>
     <tr>
