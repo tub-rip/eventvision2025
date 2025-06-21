@@ -72,7 +72,7 @@ Many thanks to all who contributed and made this workshop possible!
     </tr>
     <tr>
       <td>09:05</td>
-      <td><a href="https://seas.yale.edu/faculty-research/faculty-directory/priya-panda">Priyadarshini Panda (Yale University, USA)</a>
+      <td><a href="https://seas.yale.edu/faculty-research/faculty-directory/priya-panda">Priyadarshini Panda</a> (Yale University, USA)
       </td>
     </tr>
     <tr>
@@ -82,7 +82,7 @@ Many thanks to all who contributed and made this workshop possible!
     </tr>
     <tr>
       <td bgcolor="LavenderBlush">10:00</td>
-      <td bgcolor="LavenderBlush"><b>Coffee break. Set up posters</b></td>
+      <td bgcolor="LavenderBlush">Coffee break. Set up posters</td>
     </tr>
     <tr>
       <td bgcolor="WhiteSmoke">10:30</td>
@@ -90,12 +90,12 @@ Many thanks to all who contributed and made this workshop possible!
     </tr>
     <tr>
       <td bgcolor="LemonChiffon">10:30</td>
-      <td bgcolor="LemonChiffon"> Poster session: contributed papers, demos, challenges <br>and courtesy papers (as posters). Boards 280 -- 359.
+      <td bgcolor="LemonChiffon"><b>Poster session</b>: contributed papers, demos, challenges <br>and courtesy papers (as posters). Boards 280 -- 359.
       </td>
     </tr>
     <tr>
       <td bgcolor="LavenderBlush">12:30</td>
-      <td bgcolor="LavenderBlush"><b>Lunch break</b></td>
+      <td bgcolor="LavenderBlush">Lunch break</td>
     </tr>
     <tr>
       <td bgcolor="WhiteSmoke">13:30</td>
@@ -113,7 +113,7 @@ Many thanks to all who contributed and made this workshop possible!
     </tr>
     <tr>
       <td>14:20</td>
-      <td><a href="https://people.mpi-inf.mpg.de/~golyanik/">Vladislav Golyanik</a> (Max-Planck-Institut für Informatik, Germany)
+      <td><a href="https://people.mpi-inf.mpg.de/~golyanik/">Vladislav Golyanik</a> (Max Planck Institute, Germany)
       </td>
     </tr>
     <tr>
@@ -123,7 +123,7 @@ Many thanks to all who contributed and made this workshop possible!
     </tr>
     <tr>
       <td bgcolor="LavenderBlush">15:10</td>
-      <td bgcolor="LavenderBlush"><b>Coffee break</b></td>
+      <td bgcolor="LavenderBlush">Coffee break</td>
     </tr>
     <tr>
       <td bgcolor="WhiteSmoke">16:00</td>
@@ -155,8 +155,8 @@ Many thanks to all who contributed and made this workshop possible!
       </td>
     </tr>
     <tr>
-      <td bgcolor="LightGreen">17:50</td>
-      <td bgcolor="LightGreen"><b><a href="https://docs.google.com/presentation/d/1Fbk2UOAekj5SfXke3-b2WZuArfGeaeHWwL7iFe6Rdzs/edit?usp=sharing">Award Ceremony</a></b>
+      <td style="background-color:rgb(233, 252, 233);">17:50</td>
+      <td style="background-color:rgb(233, 252, 233);"><b><a href="https://docs.google.com/presentation/d/1Fbk2UOAekj5SfXke3-b2WZuArfGeaeHWwL7iFe6Rdzs/edit?usp=sharing">Award Ceremony</a></b>
       </td>
     </tr>   
   </tbody>
