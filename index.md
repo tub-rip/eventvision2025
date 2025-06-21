@@ -58,6 +58,7 @@ Many thanks to all who contributed and made this workshop possible!
     <tr>
       <td>08:00</td>
       <td><b><a href="https://docs.google.com/presentation/d/1q-LtQwCOLRmnQATlLhk_LX3O-xL2OHBE8GUcrhTgtcY/edit?usp=sharing"> Welcome and Organization (slides)</a></b>
+      </td>
     </tr>    
     <tr>
       <td>08:05</td>
@@ -76,7 +77,7 @@ Many thanks to all who contributed and made this workshop possible!
     </tr>
     <tr>
       <td>09:40</td>
-      <td>Introduction of 4 Challenges: <br>Eye-tracking, Deblurring, Segmentation and SLAM.
+      <td>Introduction of 4 Challenges: Eye-tracking, Deblurring, Segmentation and SLAM.
       </td>
     </tr>   
   </tbody>
