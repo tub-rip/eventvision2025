@@ -79,6 +79,85 @@ Many thanks to all who contributed and made this workshop possible!
       <td>09:40</td>
       <td>Introduction of 4 Challenges: Eye-tracking, Deblurring, Segmentation and SLAM.
       </td>
+    </tr>
+    <tr>
+      <td bgcolor="LavenderBlush">10:00</td>
+      <td bgcolor="LavenderBlush"><b>Coffee break. Set up posters</b></td>
+    </tr>
+    <tr>
+      <td bgcolor="WhiteSmoke">10:30</td>
+      <td bgcolor="WhiteSmoke"><b>SESSION 2</b></td>
+    </tr>
+    <tr>
+      <td bgcolor="LemonChiffon">10:30</td>
+      <td bgcolor="LemonChiffon"> Poster session: contributed papers, demos, challenges <br>and courtesy papers (as posters). Boards 280 -- 359.
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="LavenderBlush">12:30</td>
+      <td bgcolor="LavenderBlush"><b>Lunch break</b></td>
+    </tr>
+    <tr>
+      <td bgcolor="WhiteSmoke">13:30</td>
+      <td bgcolor="WhiteSmoke"><b>SESSION 3</b></td>
+    </tr>
+    <tr>
+      <td>13:30</td>
+      <td><a href="https://niklasfunk.com/">Niklas Funk</a> (TU Darmstadt, Germany)
+      </td>
+    </tr>
+    <tr>
+      <td>13:55</td>
+      <td><a href="https://www.cs.umd.edu/people/metzler">Christopher Metzler</a> (University of Maryland, USA)
+      </td>
+    </tr>
+    <tr>
+      <td>14:20</td>
+      <td><a href="https://people.mpi-inf.mpg.de/~golyanik/">Vladislav Golyanik</a> (Max-Planck-Institut für Informatik, Germany)
+      </td>
+    </tr>
+    <tr>
+      <td>14:45</td>
+      <td><a href="https://ieeexplore.ieee.org/author/37089197011">Ziwei Wang</a> (ANU, Australia)
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="LavenderBlush">15:10</td>
+      <td bgcolor="LavenderBlush"><b>Coffee break</b></td>
+    </tr>
+    <tr>
+      <td bgcolor="WhiteSmoke">16:00</td>
+      <td bgcolor="WhiteSmoke"><b>SESSION 4</b></td>
+    </tr>
+    <tr>
+      <td>16:00</td>
+      <td><a href="https://www.linkedin.com/in/hussain-sajwani-1709a6196/?originalSubdomain=ae">Hussain Sajwani</a> (Khalifa University, UAE)
+      </td>
+    </tr>
+    <tr>
+      <td>16:20</td>
+      <td><a href="http://shibashintaro.com/">Shintaro Shiba</a> (Woven by Toyota, Japan)
+      </td>
+    </tr>
+    <tr>
+      <td>16:40</td>
+      <td><a href="https://www.kitware.com/scott-mccloskey/">Scott McCloskey</a> (Kitware, USA)
+      </td>
+    </tr>
+    <tr>
+      <td>17:00</td>
+      <td><a href="https://www.synsense.ai/">Kynan Eng</a> (SynSense Group, Switzerland)
+      </td>
+    </tr>
+    <tr>
+      <td>17:30</td>
+      <td><a href="https://www.linkedin.com/in/davidemigliore/">Davide Migliore</a> (Tempo Sense, USA)
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="LightGreen">17:50</td>
+      <td bgcolor="LightGreen"><b><a href="https://docs.google.com/presentation/d/1Fbk2UOAekj5SfXke3-b2WZuArfGeaeHWwL7iFe6Rdzs/edit?usp=sharing">Award Ceremony</a></b>
+      </td>
     </tr>   
   </tbody>
 </table>
