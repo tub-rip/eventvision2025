@@ -1,10 +1,10 @@
 ![imagen](images/CVPR2025_EVIS.png)
 
 **June 12th, 2025, CVPR** (Full day workshop), Nashville (TN), USA.
-<!-- Starts at **8 am [Eastern Time](https://time.is/ET)**;  6 pm [Europe Time](https://time.is/CET). -->  
+<!-- Starts at **8 am [Eastern Time](https://time.is/ET)**;  6 pm [Europe Time](https://time.is/CET). -->
 Held in conjunction with the [IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/) 2025.
 
-<b>Welcome to the 5th International Workshop on Event-Based Vision!</b>  
+<b>Welcome to the 5th International Workshop on Event-Based Vision!</b>
 
 [![CVPRW 2025 edition. Photo by G. Gallego](/images/CVPRW2025_EventVision_group_picture.jpg)](https://photos.app.goo.gl/mgCJHehT7KQYhzSr9)
 Many thanks to all who contributed and made this workshop possible!
@@ -59,7 +59,7 @@ Many thanks to all who contributed and made this workshop possible!
       <td style="background-color:rgb(233, 252, 233);">08:00</td>
       <td style="background-color:rgb(233, 252, 233);"><b><a href="https://docs.google.com/presentation/d/1q-LtQwCOLRmnQATlLhk_LX3O-xL2OHBE8GUcrhTgtcY/edit?usp=sharing"> Welcome and Organization</a></b>
       </td>
-    </tr>    
+    </tr>
     <tr>
       <td>08:05</td>
       <td><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a> (University of Zurich, Switzerland)
@@ -72,12 +72,14 @@ Many thanks to all who contributed and made this workshop possible!
     </tr>
     <tr>
       <td>09:05</td>
-      <td><a href="https://seas.yale.edu/faculty-research/faculty-directory/priya-panda">Priyadarshini Panda</a> (Yale University, USA)
+      <td><a href="https://seas.yale.edu/faculty-research/faculty-directory/priya-panda">Priyadarshini Panda</a> (Yale University, USA). 
+      A Neuromorphic Approach To Event-based Vision: From Encoding To Adaptive Architectures. <b><a href="slides/2025CVPRW_Priya_Panda.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
       <td>09:40</td>
       <td>Introduction of 4 Challenges: Eye-tracking, Deblurring, Segmentation and SLAM.
+      <br>Event-Based Image Deblurring Challenge. <b><a href="slides/2025CVPRW_Challenge_EvDeblur.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
@@ -108,12 +110,14 @@ Many thanks to all who contributed and made this workshop possible!
     </tr>
     <tr>
       <td>13:55</td>
-      <td><a href="https://www.cs.umd.edu/people/metzler">Christopher Metzler</a> (University of Maryland, USA)
+      <td><a href="https://www.cs.umd.edu/people/metzler">Christopher Metzler</a> (University of Maryland, USA).
+      Computational Imaging with Event Cameras. <b><a href="slides/2025CVPRW_Christopher_Metzler.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
       <td>14:20</td>
       <td><a href="https://people.mpi-inf.mpg.de/~golyanik/">Vladislav Golyanik</a> (Max Planck Institute, Germany)
+      Event-based Non-rigid 3D Reconstruction and Novel-View Synthesis. <b><a href="slides/2025CVPRW_Vladislav_Golyanik.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
@@ -137,6 +141,7 @@ Many thanks to all who contributed and made this workshop possible!
     <tr>
       <td>16:20</td>
       <td><a href="http://shibashintaro.com/">Shintaro Shiba</a> (Woven by Toyota, Japan)
+      Real-world Event Camera Applications Towards Visible-Light Communication. <b><a href="slides/2025CVPRW_Shintaro_Shiba.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
@@ -158,7 +163,7 @@ Many thanks to all who contributed and made this workshop possible!
       <td style="background-color:rgb(233, 252, 233);">17:50</td>
       <td style="background-color:rgb(233, 252, 233);"><b><a href="https://docs.google.com/presentation/d/1Fbk2UOAekj5SfXke3-b2WZuArfGeaeHWwL7iFe6Rdzs/edit?usp=sharing">Award Ceremony</a></b>
       </td>
-    </tr>   
+    </tr>
   </tbody>
 </table>
 
@@ -325,7 +330,7 @@ While current state-of-the-art devices like Apple's Vision Pro or Meta’s Aria 
     <li><b>Task</b>: Predict mask-accurate tracks of all mouse instances from input events (and optional frames).</li>
     <li><b>Data</b>: This challenge is based on the <a href="https://github.com/tub-rip/MouseSIS"><b>MouseSIS dataset</b></a>.</li>
     <li><b>Two Tracks</b>: (1) Frame + Events Track, and (2) Events-only Track.</li>
-</ul>  
+</ul>
 
 <a href="https://www.codabench.org/competitions/5600/"><b>Challenge Page (Codabench)</b></a>
 
@@ -363,7 +368,7 @@ This challenge focuses on leveraging the high-temporal-resolution events from ev
 <ul>
     <li><b>Task</b>: To obtain a network design / solution that fusing events and images produces high quality results with the best performance (i.e., PSNR).</li>
     <li><b>Data</b>: This challenge is based on the <a href="https://github.com/AHupuJR/NTIRE2025_EventDeblur_challenge"><b>HighREV dataset</b></a>.</li>
-</ul>  
+</ul>
 
 <a href="https://codalab.lisn.upsaclay.fr/competitions/21498"><b>Challenge Page (CodaLab)</b></a>
 
