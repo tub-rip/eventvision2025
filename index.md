@@ -62,7 +62,8 @@ Many thanks to all who contributed and made this workshop possible!
     </tr>
     <tr>
       <td>08:05</td>
-      <td><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a> (University of Zurich, Switzerland)
+      <td><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a> (University of Zurich, Switzerland).
+      Event Cameras: a New Way of Sensing. <b><a href="slides/2025CVPRW_Davide_Scaramuzza.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
