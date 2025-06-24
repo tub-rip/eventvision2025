@@ -63,7 +63,8 @@ Many thanks to all who contributed and made this workshop possible!
     <tr>
       <td>08:05</td>
       <td><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a> (University of Zurich, Switzerland).
-      Event Cameras: a New Way of Sensing. <b><a href="slides/2025CVPRW_Davide_Scaramuzza.pdf"><span style="color:tomato;">Slides</span></a></b>
+      Event Cameras: a New Way of Sensing. 
+      <b><a href="slides/2025CVPRW_Davide_Scaramuzza.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
@@ -74,7 +75,8 @@ Many thanks to all who contributed and made this workshop possible!
     <tr>
       <td>09:05</td>
       <td><a href="https://seas.yale.edu/faculty-research/faculty-directory/priya-panda">Priyadarshini Panda</a> (Yale University, USA). 
-      A Neuromorphic Approach To Event-based Vision: From Encoding To Adaptive Architectures. <b><a href="slides/2025CVPRW_Priya_Panda.pdf"><span style="color:tomato;">Slides</span></a></b>
+      A Neuromorphic Approach To Event-based Vision: From Encoding To Adaptive Architectures. 
+      <b><a href="slides/2025CVPRW_Priya_Panda.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
@@ -108,24 +110,30 @@ Many thanks to all who contributed and made this workshop possible!
     </tr>
     <tr>
       <td>13:30</td>
-      <td><a href="https://niklasfunk.com/">Niklas Funk</a> (TU Darmstadt, Germany)
+      <td><a href="https://niklasfunk.com/">Niklas Funk</a> (TU Darmstadt, Germany).
+      Event-based Optical Tactile Sensing For Robotic Manipulation. 
+      <b><a href="slides/2025CVPRW_Niklas_Funk.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
       <td>13:55</td>
       <td><a href="https://www.cs.umd.edu/people/metzler">Christopher Metzler</a> (University of Maryland, USA).
-      Computational Imaging with Event Cameras. <b><a href="slides/2025CVPRW_Christopher_Metzler.pdf"><span style="color:tomato;">Slides</span></a></b>
+      Computational Imaging with Event Cameras. 
+      <b><a href="slides/2025CVPRW_Christopher_Metzler.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
       <td>14:20</td>
       <td><a href="https://people.mpi-inf.mpg.de/~golyanik/">Vladislav Golyanik</a> (Max Planck Institute, Germany)
-      Event-based Non-rigid 3D Reconstruction and Novel-View Synthesis. <b><a href="slides/2025CVPRW_Vladislav_Golyanik.pdf"><span style="color:tomato;">Slides</span></a></b>
+      Event-based Non-rigid 3D Reconstruction and Novel-View Synthesis. 
+      <b><a href="slides/2025CVPRW_Vladislav_Golyanik.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
       <td>14:45</td>
-      <td><a href="https://ieeexplore.ieee.org/author/37089197011">Ziwei Wang</a> (ANU, Australia)
+      <td><a href="https://ieeexplore.ieee.org/author/37089197011">Ziwei Wang</a> (ANU, Australia).
+      Seeing through Space and Time: Asynchronous Event Blob Tracking, Detection and Optical Communication. 
+      <b><a href="slides/2025CVPRW_Ziwei_Wang.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
@@ -143,13 +151,16 @@ Many thanks to all who contributed and made this workshop possible!
     </tr>
     <tr>
       <td>16:20</td>
-      <td><a href="http://shibashintaro.com/">Shintaro Shiba</a> (Woven by Toyota, Japan)
-      Real-world Event Camera Applications Towards Visible-Light Communication. <b><a href="slides/2025CVPRW_Shintaro_Shiba.pdf"><span style="color:tomato;">Slides</span></a></b>
+      <td><a href="http://shibashintaro.com/">Shintaro Shiba</a> (Woven by Toyota, Japan).
+      Real-world Event Camera Applications Towards Visible-Light Communication. 
+      <b><a href="slides/2025CVPRW_Shintaro_Shiba.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
       <td>16:40</td>
       <td><a href="https://www.kitware.com/scott-mccloskey/">Scott McCloskey</a> (Kitware, USA)
+      Centroiding Point-Objects with Event Cameras. 
+      <b><a href="slides/2025CVPRW_Scott_McCloskey.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
