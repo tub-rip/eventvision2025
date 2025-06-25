@@ -15,7 +15,9 @@ Many thanks to all who contributed and made this workshop possible!
 ## <span style="color:tomato;">[Videos! YouTube Playlist](https://www.youtube.com/playlist?list=PLeXWz-g2If96iotpzgBNNTr9VA6hG-LLK)</span>
 -->
 
+<!-- 
 ## [Please fill in the Survey: Neuromorphic Technology: What's Holding It Back?](https://lnkd.in/eqBiqwGt)
+-->
 
 <!-- 
 ### <span style="color:tomato;">It starts at 8 am [Local Time](https://time.is/Nashville)</span>
@@ -124,7 +126,7 @@ Many thanks to all who contributed and made this workshop possible!
     </tr>
     <tr>
       <td>14:20</td>
-      <td><a href="https://people.mpi-inf.mpg.de/~golyanik/">Vladislav Golyanik</a> (Max Planck Institute, Germany)
+      <td><a href="https://people.mpi-inf.mpg.de/~golyanik/">Vladislav Golyanik</a> (Max Planck Institute, Germany). 
       Event-based Non-rigid 3D Reconstruction and Novel-View Synthesis. 
       <b><a href="slides/2025CVPRW_Vladislav_Golyanik.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
@@ -158,19 +160,21 @@ Many thanks to all who contributed and made this workshop possible!
     </tr>
     <tr>
       <td>16:40</td>
-      <td><a href="https://www.kitware.com/scott-mccloskey/">Scott McCloskey</a> (Kitware, USA)
+      <td><a href="https://www.kitware.com/scott-mccloskey/">Scott McCloskey</a> (Kitware, USA).
       Centroiding Point-Objects with Event Cameras. 
       <b><a href="slides/2025CVPRW_Scott_McCloskey.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
       <td>17:00</td>
-      <td><a href="https://www.kynaneng.com/">Kynan Eng</a> (SynSense Group, Switzerland)
+      <td><a href="https://www.kynaneng.com/">Kynan Eng</a> (SynSense Group, Switzerland).
       </td>
     </tr>
     <tr>
       <td>17:30</td>
-      <td><a href="https://www.linkedin.com/in/davidemigliore/">Davide Migliore</a> (Tempo Sense, USA)
+      <td><a href="https://www.linkedin.com/in/davidemigliore/">Davide Migliore</a> (Tempo Sense, USA).
+      Harnessing the Power of AI for Smart Sensing. 
+      <b><a href="slides/2025CVPRW_Tempo_Sense.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
