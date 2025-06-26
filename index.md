@@ -84,6 +84,7 @@ Many thanks to all who contributed and made this workshop possible!
     <tr>
       <td>09:40</td>
       <td>Introduction of 4 Challenges: Eye-tracking, Deblurring, Segmentation and SLAM.
+      <br>Event-Based Eye-Tracking Challenge. <b><a href="slides/2025CVPRW_Challenge_EyeTracking.pdf"><span style="color:tomato;">Slides</span></a></b>
       <br>Event-Based Instance Segmentation Challenge. <b><a href="slides/2025CVPRW_Challenge_SIS.pdf"><span style="color:tomato;">Slides</span></a></b>
       <br>Event-Based Image Deblurring Challenge. <b><a href="slides/2025CVPRW_Challenge_EvDeblur.pdf"><span style="color:tomato;">Slides</span></a></b>
       <br>Event-Based SLAM Challenge. <b><a href="slides/2025CVPRW_Challenge_SLAM.pdf"><span style="color:tomato;">Slides</span></a></b>
@@ -148,7 +149,9 @@ Many thanks to all who contributed and made this workshop possible!
     </tr>
     <tr>
       <td>16:00</td>
-      <td><a href="https://www.linkedin.com/in/hussain-sajwani-1709a6196/?originalSubdomain=ae">Hussain Sajwani</a> (Khalifa University, UAE)
+      <td><a href="https://www.linkedin.com/in/hussain-sajwani-1709a6196/?originalSubdomain=ae">Hussain Sajwani</a> (Khalifa University, UAE).
+      Neuromorphic Vision in Aerospace Automation. 
+      <b><a href="slides/2025CVPRW_Hussain_Sajwani.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
