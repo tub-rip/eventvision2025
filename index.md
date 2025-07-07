@@ -171,6 +171,8 @@ Many thanks to all who contributed and made this workshop possible!
     <tr>
       <td>17:00</td>
       <td><a href="https://www.kynaneng.com/">Kynan Eng</a> (SynSense Group, Switzerland).
+      Event-Based Visual Sensing: Matching Performance to Application Needs.
+      <b><a href="slides/2025CVPRW_Kynan_Eng.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
